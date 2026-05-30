@@ -1,0 +1,10968 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "0d444308-368d-4fdf-b849-3a89b8fcf557")
+	(paper "A0")
+	(lib_symbols
+		(symbol "moroLib2:root_0_IN-12 tube_moroLib2.SchLib"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*IN-12{space}soket*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_0_IN-12 tube_moroLib2.SchLib_1_0"
+				(rectangle
+					(start 5.08 -7.62)
+					(end -27.94 0)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 2.54 7.62 270)
+					(length 7.62)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 7.62 270)
+					(length 7.62)
+					(name "0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 7.62 270)
+					(length 7.62)
+					(name "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 7.62 270)
+					(length 7.62)
+					(name "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 7.62 270)
+					(length 7.62)
+					(name "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 7.62 270)
+					(length 7.62)
+					(name "d6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 7.62 270)
+					(length 7.62)
+					(name "d5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -15.24 7.62 270)
+					(length 7.62)
+					(name "d4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -17.78 7.62 270)
+					(length 7.62)
+					(name "d3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -20.32 7.62 270)
+					(length 7.62)
+					(name "d2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -22.86 7.62 270)
+					(length 7.62)
+					(name "d1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -25.4 7.62 270)
+					(length 7.62)
+					(name "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "moroLib2:root_0_IN-3tube_moroLib2.SchLib"
+			(pin_numbers
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*IN-3tube*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_0_IN-3tube_moroLib2.SchLib_1_0"
+				(bezier
+					(pts
+						(xy -5.08 0) (xy -5.08 0) (xy -2.8057 0) (xy 0 0)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(bezier
+					(pts
+						(xy -3.556 0) (xy -3.556 -2.8056) (xy -1.964 -5.08) (xy 0 -5.08)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 231 236 115 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy 0 5.08) (xy -1.964 5.08) (xy -3.556 2.8057) (xy -3.556 0)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 231 236 115 0.5)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.524) (xy 0 0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(bezier
+					(pts
+						(xy 0 0) (xy -2.8057 0) (xy -5.08 0) (xy -5.08 0)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 5.08 0) (xy 0 0) (xy -5.08 0) (xy 0 0)
+					)
+					(stroke
+						(width -0.0001)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(bezier
+					(pts
+						(xy 0 0) (xy 2.8056 0) (xy 5.08 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.524) (xy 0 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -5.08) (xy 3.556 0) (xy 0 5.08) (xy -3.556 0) (xy 0 -5.08)
+					)
+					(stroke
+						(width -0.0001)
+						(type default)
+					)
+					(fill
+						(type color)
+						(color 231 236 115 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy 0 -5.08) (xy 1.9639 -5.08) (xy 3.556 -2.8056) (xy 3.556 0)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 231 236 115 0.5)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0.762) (xy -2.54 0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -0.762) (xy -2.54 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(bezier
+					(pts
+						(xy 3.556 0) (xy 3.556 2.8057) (xy 1.9639 5.08) (xy 0 5.08)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 231 236 115 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy 5.08 0) (xy 5.08 0) (xy 2.8056 0) (xy 0 0)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 12.7 270)
+					(length 7.62)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -12.7 90)
+					(length 7.62)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "moroLib2:root_0_MMBT5551_moroLib2.SchLib"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*SOT23*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_0_MMBT5551_moroLib2.SchLib_1_0"
+				(polyline
+					(pts
+						(xy -2.311 2.515) (xy -1.194 1.448)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.108 0.94) (xy -2.311 2.515)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.676 1.219) (xy -1.27 0.508)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.194 1.448) (xy -2.108 0.94)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.524 0.508) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 -0.254)
+					(end -2.54 0.508)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "moroLib2:root_0_RES0603_moroLib2.SchLib"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*RES0603new*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_0_RES0603_moroLib2.SchLib_1_0"
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -1.524) (xy -0.508 -1.27) (xy 0.508 -0.762) (xy -0.508 -0.254) (xy 0.508 0.254)
+						(xy -0.508 0.762) (xy 0.508 1.27) (xy 0 1.524) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "moroLib2:root_0_RES0805_moroLib2.SchLib"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*RES0805new*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_0_RES0805_moroLib2.SchLib_1_0"
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -1.524) (xy -0.508 -1.27) (xy 0.508 -0.762) (xy -0.508 -0.254) (xy 0.508 0.254)
+						(xy -0.508 0.762) (xy 0.508 1.27) (xy 0 1.524) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "moroLib2:root_1_RES0603_moroLib2.SchLib"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*RES0603new*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_1_RES0603_moroLib2.SchLib_1_0"
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -1.524) (xy -0.508 -1.27) (xy 0.508 -0.762) (xy -0.508 -0.254) (xy 0.508 0.254)
+						(xy -0.508 0.762) (xy 0.508 1.27) (xy 0 1.524) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "moroLib2:root_1_RES0805_moroLib2.SchLib"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*RES0805new*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_1_RES0805_moroLib2.SchLib_1_0"
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -1.524) (xy -0.508 -1.27) (xy 0.508 -0.762) (xy -0.508 -0.254) (xy 0.508 0.254)
+						(xy -0.508 0.762) (xy 0.508 1.27) (xy 0 1.524) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "moroLib2:root_2_RES0805_moroLib2.SchLib"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*RES0805new*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_2_RES0805_moroLib2.SchLib_1_0"
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -1.524) (xy -0.508 -1.27) (xy 0.508 -0.762) (xy -0.508 -0.254) (xy 0.508 0.254)
+						(xy -0.508 0.762) (xy 0.508 1.27) (xy 0 1.524) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "moroLib2:root_3_ASMT-YTD9-0AA02_moroLib2.SchLib"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*ASMT-YTD9-0AA02*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_3_ASMT-YTD9-0AA02_moroLib2.SchLib_1_0"
+				(bezier
+					(pts
+						(xy -7.366 -1.27) (xy -7.366 -2.6729) (xy -6.3426 -3.81) (xy -5.08 -3.81)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 238 14 34 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy -5.08 1.27) (xy -6.3426 1.27) (xy -7.366 0.1328) (xy -7.366 -1.27)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 238 14 34 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy -5.08 -3.81) (xy -3.8175 -3.81) (xy -2.794 -2.6729) (xy -2.794 -1.27)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 238 14 34 0.5)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 -2.54) (xy -6.604 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 128 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.556 0) (xy -6.604 0) (xy -5.08 -2.54) (xy -3.556 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(bezier
+					(pts
+						(xy -2.794 -1.27) (xy -2.794 0.1328) (xy -3.8175 1.27) (xy -5.08 1.27)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 238 14 34 0.5)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.794 -1.27) (xy -5.08 1.27) (xy -7.366 -1.27) (xy -5.08 -3.81) (xy -2.794 -1.27)
+					)
+					(stroke
+						(width -0.0001)
+						(type default)
+					)
+					(fill
+						(type color)
+						(color 238 14 34 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy -2.286 -1.27) (xy -2.286 -2.6729) (xy -1.2626 -3.81) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 59 178 83 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy 0 1.27) (xy -1.2626 1.27) (xy -2.286 0.1328) (xy -2.286 -1.27)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 59 178 83 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy 0 -3.81) (xy 1.2625 -3.81) (xy 2.286 -2.6729) (xy 2.286 -1.27)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 59 178 83 0.5)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy -1.524 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 128 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.524 0) (xy -1.524 0) (xy 0 -2.54) (xy 1.524 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 -1.27) (xy 0 1.27) (xy -2.286 -1.27) (xy 0 -3.81) (xy 2.286 -1.27)
+					)
+					(stroke
+						(width -0.0001)
+						(type default)
+					)
+					(fill
+						(type color)
+						(color 59 178 83 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy 2.286 -1.27) (xy 2.286 0.1328) (xy 1.2625 1.27) (xy 0 1.27)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 59 178 83 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy 2.794 -1.27) (xy 2.794 -2.6729) (xy 3.8174 -3.81) (xy 5.08 -3.81)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 0 156 202 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy 5.08 1.27) (xy 3.8174 1.27) (xy 2.794 0.1328) (xy 2.794 -1.27)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 0 156 202 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy 5.08 -3.81) (xy 6.3425 -3.81) (xy 7.366 -2.6729) (xy 7.366 -1.27)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 0 156 202 0.5)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -2.54) (xy 3.556 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 128 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.604 0) (xy 3.556 0) (xy 5.08 -2.54) (xy 6.604 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.366 -1.27) (xy 5.08 1.27) (xy 2.794 -1.27) (xy 5.08 -3.81) (xy 7.366 -1.27)
+					)
+					(stroke
+						(width -0.0001)
+						(type default)
+					)
+					(fill
+						(type color)
+						(color 0 156 202 0.5)
+					)
+				)
+				(bezier
+					(pts
+						(xy 7.366 -1.27) (xy 7.366 0.1328) (xy 6.3425 1.27) (xy 5.08 1.27)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 0 156 202 0.5)
+					)
+				)
+				(rectangle
+					(start 7.62 1.778)
+					(end -7.62 -4.318)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 5.08 -5.08 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 90)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 270)
+					(length 2.54)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 270)
+					(length 2.54)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "nixie_2025_v3-altium-import:+5VDC_BAR"
+			(power global)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "+5VDC"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name '+5VDC'"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+5VDC_BAR_0_0"
+				(polyline
+					(pts
+						(xy -1.27 -2.54) (xy 1.27 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "+5VDC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "nixie_2025_v3-altium-import:GND_POWER_GROUND"
+			(power global)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'GND'"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_POWER_GROUND_0_0"
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -3.302) (xy 1.778 -3.302)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -4.064) (xy 1.016 -4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -4.826) (xy 0.254 -4.826)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "nixie_2025_v3-altium-import:dig_sec_BAR"
+			(power global)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "dig_sec"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'dig_sec'"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "dig_sec_BAR_0_0"
+				(polyline
+					(pts
+						(xy -1.27 -2.54) (xy 1.27 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "dig_sec"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "Place R59 only if Q7 is not popolated"
+		(exclude_from_sim no)
+		(at 485.14 424.434 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f12b2a16-4a27-4317-b3c4-b440a34b9e47")
+	)
+	(junction
+		(at 526.099 255.314)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b0e8cf1-bac1-40b3-b5f7-0668c5bbe4a6")
+	)
+	(junction
+		(at 351.859 255.154)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b98f457-c026-4e6f-aa88-c98045c1b226")
+	)
+	(junction
+		(at 420.42 426.234)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1e9b3692-368c-4bee-b0a8-703ddc32b5a9")
+	)
+	(junction
+		(at 420.02 395.234)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ffa7148-ba88-478e-954d-486011524a35")
+	)
+	(junction
+		(at 445.42 408.234)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c747a08-e36a-4a1e-9d4a-3ef97c32d284")
+	)
+	(junction
+		(at 433.86 255.854)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "43c2033c-00cf-423d-bf5a-126a00f6e5f3")
+	)
+	(junction
+		(at 484.92 255.054)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "465766ab-d007-4a15-9b6d-d5c2623a3e63")
+	)
+	(junction
+		(at 428.86 255.854)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f65688b-4514-41fe-b360-2ced7344861c")
+	)
+	(junction
+		(at 420.58 444.234)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "52325540-f88e-46d2-af0c-f2f8da24b2f9")
+	)
+	(junction
+		(at 409.86 409.194)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58809674-6abf-4a52-9c94-82dbbfcc0c31")
+	)
+	(junction
+		(at 303.56 255.314)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ee48542-8850-4809-8e9e-97f61335e660")
+	)
+	(junction
+		(at 298.56 255.314)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "650ea991-f89f-4554-949f-cc3071fb970a")
+	)
+	(junction
+		(at 420.02 408.234)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ef6ba31-0f46-45b4-a2bc-c47d18b8479d")
+	)
+	(junction
+		(at 445.42 434.594)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72320f22-558c-40e6-8dda-b37a36b7c0db")
+	)
+	(junction
+		(at 466.42 415.154)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "741c4287-cc85-4fe6-ab25-2a66d975136d")
+	)
+	(junction
+		(at 445.42 401.574)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7781b54a-4d78-4c52-a21c-d2eabc2947e2")
+	)
+	(junction
+		(at 386.48 254.854)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81bb4aa7-746d-4dfa-b994-9eefa42b30ae")
+	)
+	(junction
+		(at 445.42 426.234)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8262dd9c-771b-45ab-b7b4-91c3b1764492")
+	)
+	(junction
+		(at 356.859 255.154)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85944f46-4c23-4d08-93c0-011ef8fd43d3")
+	)
+	(junction
+		(at 536.259 255.314)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d9f85c7-de0b-4ab5-aa41-25749b6ab4fd")
+	)
+	(junction
+		(at 445.42 416.814)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "941891fc-6a91-4fc2-ae23-fe3c401f7b97")
+	)
+	(junction
+		(at 409.86 417.234)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "954864ff-6704-4e05-8d99-b99f7d587069")
+	)
+	(junction
+		(at 485.14 415.154)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96e0de34-931b-46da-b35d-52ee032d0fe3")
+	)
+	(junction
+		(at 409.86 426.234)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a286cf22-34d3-4d83-9ec9-50c58cefca70")
+	)
+	(junction
+		(at 489.92 255.054)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a3fda4a2-c62c-4f09-b2cc-e63989bfc20b")
+	)
+	(junction
+		(at 293.4 282.314)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb4217cb-54c3-4daa-920e-af9c690e84ee")
+	)
+	(junction
+		(at 445.42 444.234)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ddffc7bf-5381-42e3-842d-635e812f19b4")
+	)
+	(junction
+		(at 346.859 255.154)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3033917-4b1f-40d0-ae76-fd68256436be")
+	)
+	(junction
+		(at 391.48 254.854)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f93f56dd-f5a7-4137-b999-50b5704756e1")
+	)
+	(junction
+		(at 531.179 255.314)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb07a9f3-71e0-4e43-b479-43c126ca4052")
+	)
+	(wire
+		(pts
+			(xy 474.92 289.674) (xy 494.92 289.674)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "007fd311-da22-4d55-8048-114dfbc05db2")
+	)
+	(wire
+		(pts
+			(xy 505.46 335.534) (xy 514.18 335.534)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "008a0ce3-7aa7-449b-bd2d-2fa6c561c9e5")
+	)
+	(wire
+		(pts
+			(xy 381 330.454) (xy 386.08 330.454)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0265a396-5fa1-451a-b9f1-91185fdce3e7")
+	)
+	(wire
+		(pts
+			(xy 410.42 444.234) (xy 409.86 444.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "029ed557-c6bf-4ce7-a9c9-12b3051b7cd2")
+	)
+	(wire
+		(pts
+			(xy 462.72 344.354) (xy 483.22 344.354)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02a38e41-25a8-41f3-8494-733edd38f52e")
+	)
+	(wire
+		(pts
+			(xy 409.86 409.194) (xy 409.86 417.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0323d802-3e5c-4c1d-9db3-7142a06824ad")
+	)
+	(wire
+		(pts
+			(xy 489.84 267.714) (xy 489.92 267.714)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03c16b57-d27a-4157-a110-41f0f040fbff")
+	)
+	(wire
+		(pts
+			(xy 336.86 288.314) (xy 351.779 288.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04dc3522-b4f1-48d0-8d52-40788b60e9c5")
+	)
+	(wire
+		(pts
+			(xy 363.22 322.834) (xy 370.84 322.834)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05a4d519-98f0-4302-8d24-b0153ff1dd42")
+	)
+	(wire
+		(pts
+			(xy 435.26 416.814) (xy 420.02 416.814)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0607d234-3f4f-4eac-95c5-a0a569767769")
+	)
+	(wire
+		(pts
+			(xy 391.4 269.854) (xy 391.4 267.514)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06792a0c-8978-4eb2-9875-db8fada6e8b8")
+	)
+	(wire
+		(pts
+			(xy 420.58 454.914) (xy 420.58 444.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0775f786-8c2a-4e60-a661-f1fe2f445652")
+	)
+	(wire
+		(pts
+			(xy 346.699 274.194) (xy 346.699 265.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "077b19be-5a1b-45b3-b8c0-9b6745478dc1")
+	)
+	(wire
+		(pts
+			(xy 279.74 342.134) (xy 279.74 342.334)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07a7bb0b-335f-467b-9374-d8bae21cfcba")
+	)
+	(wire
+		(pts
+			(xy 445.42 416.814) (xy 445.42 408.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07d5ad04-e242-4600-b9dc-afcc762a4b2e")
+	)
+	(wire
+		(pts
+			(xy 279.24 322.134) (xy 291.74 322.134)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08076f8f-cd22-4dcd-b28a-d28bb31669c2")
+	)
+	(wire
+		(pts
+			(xy 424.18 348.074) (xy 424.18 348.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "089c6fa8-80a6-48dc-941a-f048e1f1dd73")
+	)
+	(wire
+		(pts
+			(xy 444.5 454.914) (xy 445.42 454.914)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08ad50ee-7fe3-4a18-afc6-6fef97bd000e")
+	)
+	(wire
+		(pts
+			(xy 420.02 416.814) (xy 420.02 408.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08b99b58-ed24-497a-8b2c-5562b0657436")
+	)
+	(wire
+		(pts
+			(xy 428.86 255.854) (xy 433.86 255.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08d72936-0008-40e7-8172-132903ef8c02")
+	)
+	(wire
+		(pts
+			(xy 494.92 270.054) (xy 494.92 268.054)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a295d01-db24-4c37-a8d5-a07a499c30a9")
+	)
+	(wire
+		(pts
+			(xy 489.92 255.054) (xy 489.92 257.554)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cad3610-d5d1-47e7-a1cb-75aa29a755f2")
+	)
+	(wire
+		(pts
+			(xy 279.74 345.134) (xy 291.74 345.134)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d334f36-1e16-47dc-9ab6-0fb14bb8c902")
+	)
+	(wire
+		(pts
+			(xy 484.92 255.054) (xy 489.92 255.054)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f1c370a-2c83-4513-99db-a98c1631745a")
+	)
+	(wire
+		(pts
+			(xy 466.42 421.894) (xy 477.52 421.894)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "118a8ff4-b8c6-4a92-aad0-1a12a872d8cc")
+	)
+	(wire
+		(pts
+			(xy 435.26 434.594) (xy 420.42 434.594)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12517b28-4231-4408-a6c5-9cecd892f420")
+	)
+	(wire
+		(pts
+			(xy 279.24 340.134) (xy 279.24 339.794)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "133a8f61-a079-4ee4-934c-2ca90be130fb")
+	)
+	(wire
+		(pts
+			(xy 445.42 444.234) (xy 445.42 434.594)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13df1daa-d4b4-4afa-aaaa-37c1a17a6b86")
+	)
+	(wire
+		(pts
+			(xy 515.26 284.314) (xy 526.26 284.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1404d57d-7259-461b-b9c7-a1936ddb1aff")
+	)
+	(wire
+		(pts
+			(xy 483.22 326.354) (xy 483.22 326.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14901c83-04da-4b8a-b484-5b66ef7c930c")
+	)
+	(wire
+		(pts
+			(xy 448.42 408.234) (xy 448.42 415.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15db61d0-af21-4aca-b161-8ef2ca024c72")
+	)
+	(wire
+		(pts
+			(xy 386.48 257.694) (xy 386.48 254.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "172e2eb5-3247-46ec-b7b4-4897e3a47536")
+	)
+	(wire
+		(pts
+			(xy 303.56 288.314) (xy 303.56 277.934)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17798a7a-1ac6-4bdc-84b6-779820fd771d")
+	)
+	(wire
+		(pts
+			(xy 424.18 348.234) (xy 429.26 348.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17a5698e-049a-4bd5-9dc3-f9c1b72bb0ef")
+	)
+	(wire
+		(pts
+			(xy 494.92 289.674) (xy 494.92 277.674)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "192cbc10-0c36-4913-9ad5-fbaad4b2b94f")
+	)
+	(wire
+		(pts
+			(xy 419.42 395.234) (xy 420.02 395.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1964eb20-adb2-4c05-8ec9-459cc7ac08c1")
+	)
+	(wire
+		(pts
+			(xy 494.92 255.054) (xy 494.92 257.894)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a17e1ea-747f-494f-ae04-bd86e0a021df")
+	)
+	(wire
+		(pts
+			(xy 356.859 255.154) (xy 356.859 255.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a5935aa-315d-40fc-9c65-ea2da07636a3")
+	)
+	(wire
+		(pts
+			(xy 343.02 347.174) (xy 343.02 347.074)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aafae1a-f959-4899-9c2a-f2abaa005932")
+	)
+	(wire
+		(pts
+			(xy 293.4 282.314) (xy 293.4 277.934)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1af91f32-bcf8-48d0-9d67-5581c790ece0")
+	)
+	(wire
+		(pts
+			(xy 445.42 408.234) (xy 445.42 401.574)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b56ef92-2a3e-4347-a6db-c42bf8cec930")
+	)
+	(wire
+		(pts
+			(xy 483.22 321.074) (xy 482.6 321.074)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bda9ab8-fed0-4c60-bf6b-f0a5304407d3")
+	)
+	(wire
+		(pts
+			(xy 278.74 324.554) (xy 291.74 324.554)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c1385bd-c500-4bfb-848a-93b7c1d94850")
+	)
+	(wire
+		(pts
+			(xy 448.42 415.154) (xy 466.42 415.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c8f0cd4-3952-4b81-aa9d-741d32012a78")
+	)
+	(wire
+		(pts
+			(xy 284.48 299.974) (xy 291.24 299.974)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d13fd77-60ad-48c1-9ecb-6b428901f927")
+	)
+	(wire
+		(pts
+			(xy 536.259 255.314) (xy 531.179 255.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e75a899-ccc5-4933-a59c-c3a9791be3e5")
+	)
+	(wire
+		(pts
+			(xy 298.56 255.314) (xy 298.56 257.814)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20afbe50-ba91-4108-9af5-1eb90d3491dc")
+	)
+	(wire
+		(pts
+			(xy 293.56 258.154) (xy 293.56 255.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2125ca5f-410f-4922-ac4f-74672458706a")
+	)
+	(wire
+		(pts
+			(xy 445.42 408.234) (xy 448.42 408.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21edcbe8-abff-4891-bb32-298d5b1e707f")
+	)
+	(wire
+		(pts
+			(xy 391.48 254.854) (xy 391.48 257.354)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22960953-6f2c-42ec-999b-3234e1f238f1")
+	)
+	(wire
+		(pts
+			(xy 462.72 336.354) (xy 483.22 336.354)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "229a59d5-dc98-49e2-ba34-50fb5ad07448")
+	)
+	(wire
+		(pts
+			(xy 386.32 267.854) (xy 386.48 267.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "236bc2e7-1b12-4407-a002-f3dd71cd542b")
+	)
+	(wire
+		(pts
+			(xy 462.72 331.354) (xy 483.22 331.354)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24766fab-9701-44b9-9b97-e15ec660eb1e")
+	)
+	(wire
+		(pts
+			(xy 291.74 327.134) (xy 291.74 327.094)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "248e26f0-b564-438d-98b8-fe4d136247a8")
+	)
+	(wire
+		(pts
+			(xy 433.78 270.854) (xy 433.78 268.514)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25bca689-ddc7-4e1b-a107-7d1d5bbe2fed")
+	)
+	(wire
+		(pts
+			(xy 462.72 328.354) (xy 462.72 328.694)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "266b679a-dbc3-462f-be13-27f371f6a630")
+	)
+	(wire
+		(pts
+			(xy 503.02 302.514) (xy 503.02 304.734)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2823818f-4881-42b8-bb3c-b2418863ab36")
+	)
+	(wire
+		(pts
+			(xy 279.74 342.334) (xy 291.74 342.334)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "291c68d3-716b-43d0-ae4f-0e58864af1e1")
+	)
+	(wire
+		(pts
+			(xy 291.74 332.134) (xy 291.74 332.174)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a703435-9702-4329-be83-deddf549fe41")
+	)
+	(wire
+		(pts
+			(xy 386.32 282.854) (xy 386.32 277.474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c8298c7-07e7-4418-9727-aab59149d8fa")
+	)
+	(wire
+		(pts
+			(xy 536.259 255.314) (xy 536.259 256.034)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d21290e-7d49-4bcb-9100-a4ceb6d9f108")
+	)
+	(wire
+		(pts
+			(xy 278.74 334.714) (xy 291.74 334.714)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ef120f3-e3d9-41ec-87d0-a632eb1f9777")
+	)
+	(wire
+		(pts
+			(xy 420.42 434.594) (xy 420.42 426.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3049313a-5c0a-45b3-b663-5656a1535e50")
+	)
+	(wire
+		(pts
+			(xy 429.26 325.374) (xy 424.18 325.374)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "304d6212-20e8-42cb-8d57-023ad1f9fcb8")
+	)
+	(wire
+		(pts
+			(xy 351.779 264.974) (xy 351.859 264.974)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "310747cd-0611-48bf-a894-21cab6d52b03")
+	)
+	(wire
+		(pts
+			(xy 291.74 319.474) (xy 291.24 319.474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3261f576-7fbf-4995-8052-444e981ce179")
+	)
+	(wire
+		(pts
+			(xy 303.56 270.314) (xy 303.56 268.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32f98b65-c45b-4857-8a06-bae0c5a61813")
+	)
+	(wire
+		(pts
+			(xy 445.42 426.234) (xy 445.42 416.814)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "378f21b3-eea1-428b-bde8-adaf9bebc580")
+	)
+	(wire
+		(pts
+			(xy 424.18 340.614) (xy 429.26 340.614)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38207a81-d597-4dcf-8bc1-c3ba8343120a")
+	)
+	(wire
+		(pts
+			(xy 484.76 283.674) (xy 484.76 277.674)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38515d4e-0b09-4462-a50d-23e935596f79")
+	)
+	(wire
+		(pts
+			(xy 438.86 270.854) (xy 438.86 268.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ac808f5-0ee7-4599-98a1-602e38eb8465")
+	)
+	(wire
+		(pts
+			(xy 505.46 338.514) (xy 505.46 338.074)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bd681a1-b7d3-4081-a1c9-e2e25d51cfca")
+	)
+	(wire
+		(pts
+			(xy 526.26 284.314) (xy 526.26 273.814)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d9b7d7d-8873-4469-8aea-60702b23d40a")
+	)
+	(wire
+		(pts
+			(xy 489.92 255.054) (xy 494.92 255.054)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ea40b6c-7113-4d65-afd6-068b6a164bc9")
+	)
+	(wire
+		(pts
+			(xy 484.76 270.054) (xy 484.76 268.054)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3eb72115-3218-4828-b26d-d5a90adc9f41")
+	)
+	(wire
+		(pts
+			(xy 293.4 270.314) (xy 293.4 268.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3efb8620-d323-47cc-9d75-31439d6af955")
+	)
+	(wire
+		(pts
+			(xy 396.48 288.854) (xy 396.48 277.474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f696be4-4a72-43c6-89de-b11e0e504e36")
+	)
+	(wire
+		(pts
+			(xy 428.86 258.694) (xy 428.86 255.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40ddbff4-6dba-4110-83e5-90bf984331b4")
+	)
+	(wire
+		(pts
+			(xy 536.76 255.314) (xy 536.259 255.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "435d112e-232e-4064-baf0-5adc9b882778")
+	)
+	(wire
+		(pts
+			(xy 483.22 334.354) (xy 483.22 333.774)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "442fa283-b3f6-4fe5-ab2c-e2fb9dcce500")
+	)
+	(wire
+		(pts
+			(xy 381 343.154) (xy 386.08 343.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44cb42fe-4acb-48ad-953c-3b838521aa51")
+	)
+	(wire
+		(pts
+			(xy 278.74 327.134) (xy 291.74 327.134)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "470f7110-7436-42fb-b1fe-388166ee7282")
+	)
+	(wire
+		(pts
+			(xy 428.86 282.854) (xy 428.86 278.474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4814e487-e255-4b8b-b725-2e86cad6c730")
+	)
+	(wire
+		(pts
+			(xy 462.72 334.354) (xy 483.22 334.354)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4859bad3-253c-473b-ba10-56bb602bdddc")
+	)
+	(wire
+		(pts
+			(xy 418.86 282.854) (xy 428.86 282.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "496af2df-c279-45e6-839a-32ce451efd07")
+	)
+	(wire
+		(pts
+			(xy 420.02 401.574) (xy 420.02 395.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a8e8757-87d1-47d0-ae31-67fb8fe40cf3")
+	)
+	(wire
+		(pts
+			(xy 424.18 343.074) (xy 424.18 343.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4af9904f-9fc9-49c8-8f01-7a7943832abb")
+	)
+	(wire
+		(pts
+			(xy 462.72 341.394) (xy 483.22 341.394)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b17962d-cc85-4c0f-9203-ede75836bfb5")
+	)
+	(wire
+		(pts
+			(xy 445.42 434.594) (xy 445.42 426.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f580e49-6633-4ca4-922d-825432b20f99")
+	)
+	(wire
+		(pts
+			(xy 482.6 321.074) (xy 482.6 315.214)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f9f960c-7274-4ca0-b2a3-55ff87004cb7")
+	)
+	(wire
+		(pts
+			(xy 428.7 270.854) (xy 428.7 268.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ffc74b8-45b3-4466-857b-fb5662cd0c02")
+	)
+	(wire
+		(pts
+			(xy 409.86 417.234) (xy 409.86 426.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52f86438-eb6a-474d-8ef1-271ea74c9932")
+	)
+	(wire
+		(pts
+			(xy 298.48 267.974) (xy 298.56 267.974)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54e6a328-09f3-482f-bd09-9e0a1f500dd3")
+	)
+	(wire
+		(pts
+			(xy 282.48 282.314) (xy 293.4 282.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5539b5e5-24a8-4e3f-b999-085af998de7a")
+	)
+	(wire
+		(pts
+			(xy 298.48 270.314) (xy 298.48 267.974)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5655d375-1381-4c61-91cb-f9e65c953cea")
+	)
+	(wire
+		(pts
+			(xy 278.74 329.634) (xy 291.74 329.634)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "580e7ad2-39dd-40f2-bf7f-8665da5608bd")
+	)
+	(wire
+		(pts
+			(xy 428.86 278.474) (xy 428.7 278.474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58289f3b-2c7c-415c-a7ce-e27ba24a761a")
+	)
+	(wire
+		(pts
+			(xy 376.32 282.854) (xy 386.32 282.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58e356b0-94bf-4539-a7bd-536e24883372")
+	)
+	(wire
+		(pts
+			(xy 477.52 421.894) (xy 477.52 434.594)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b00de9e-9124-45f4-af2f-36f6d3e0ee02")
+	)
+	(wire
+		(pts
+			(xy 282.48 285.314) (xy 298.48 285.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b99a427-ed5d-4254-9ce0-59898e5c48e0")
+	)
+	(wire
+		(pts
+			(xy 484.92 257.894) (xy 484.92 255.054)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c69baff-c548-45f0-8516-66806139c706")
+	)
+	(wire
+		(pts
+			(xy 424.18 345.694) (xy 429.26 345.694)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d932c23-c53e-4b41-b479-0e44412e9f33")
+	)
+	(wire
+		(pts
+			(xy 483.22 339.354) (xy 483.22 338.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f489054-093e-4bcf-879f-d365d82fff17")
+	)
+	(wire
+		(pts
+			(xy 478.72 346.474) (xy 483.22 346.474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "635683a0-0151-46a3-a476-fb7077b7b7a6")
+	)
+	(wire
+		(pts
+			(xy 409.86 408.234) (xy 409.86 409.194)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "638318d0-74fa-4795-9f13-a52bdbda1cfe")
+	)
+	(wire
+		(pts
+			(xy 291.24 319.474) (xy 291.24 314.794)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64104bb8-7395-4c97-8ecc-562353cb847f")
+	)
+	(wire
+		(pts
+			(xy 483.22 344.354) (xy 483.22 343.934)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65332b4b-d615-440c-8d49-bb04160317e3")
+	)
+	(wire
+		(pts
+			(xy 381 335.534) (xy 386.08 335.534)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66fd88d7-7250-4d44-93a6-c6c35d9ccf24")
+	)
+	(wire
+		(pts
+			(xy 336.86 285.314) (xy 346.699 285.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "698c38d5-4ba8-47be-a80c-8bef34ca7d46")
+	)
+	(wire
+		(pts
+			(xy 351.859 255.154) (xy 356.859 255.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6abf4afb-a13b-4ebc-a780-165839d8efcb")
+	)
+	(wire
+		(pts
+			(xy 408.94 396.194) (xy 409.26 396.194)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e08db59-7bec-40d7-8d78-8b7ff1b481b6")
+	)
+	(wire
+		(pts
+			(xy 445.42 426.234) (xy 445.82 426.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e2f640d-a05a-4bb0-9e01-60bc08687280")
+	)
+	(wire
+		(pts
+			(xy 346.699 265.314) (xy 346.859 265.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e7750df-c0b7-4763-9fcd-b8c9e32ddc12")
+	)
+	(wire
+		(pts
+			(xy 381 327.914) (xy 386.08 327.914)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fe3aa57-5bbb-49c2-b0f9-91c947ac2ed9")
+	)
+	(wire
+		(pts
+			(xy 381 334.734) (xy 381 335.534)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73c22816-b376-4b11-becc-b2fe7a2ab32e")
+	)
+	(wire
+		(pts
+			(xy 478.72 347.354) (xy 478.72 346.474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73e1b404-b810-48e6-a65e-01fe84e9a267")
+	)
+	(wire
+		(pts
+			(xy 332.02 339.174) (xy 332.02 339.454)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a64d7ef-477a-4add-87f3-6df98f835994")
+	)
+	(wire
+		(pts
+			(xy 438.86 288.854) (xy 438.86 278.474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7add7a51-304f-48e2-ab3c-7177c613b6cf")
+	)
+	(wire
+		(pts
+			(xy 351.779 288.314) (xy 351.779 281.814)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c17519b-5cda-4319-b64f-2bb9fe7eea91")
+	)
+	(wire
+		(pts
+			(xy 381 348.234) (xy 386.08 348.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d724658-48f1-4863-bb5a-0f81488755c9")
+	)
+	(wire
+		(pts
+			(xy 489.84 286.674) (xy 489.84 277.674)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e1a5564-5ee4-4939-90b1-77a5dd2c7830")
+	)
+	(wire
+		(pts
+			(xy 332.74 335.534) (xy 343.02 335.534)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eb3bfdb-ba9f-4f3d-ad88-4ad9cace07ed")
+	)
+	(wire
+		(pts
+			(xy 391.4 277.474) (xy 391.4 285.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81c6d562-5a30-434b-8113-5d6714d66987")
+	)
+	(wire
+		(pts
+			(xy 351.859 255.154) (xy 346.859 255.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8263f3af-b4b4-449a-bf71-bc7224929f5b")
+	)
+	(wire
+		(pts
+			(xy 489.84 270.054) (xy 489.84 267.714)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82b1dffd-0438-441d-8239-8fc630f66806")
+	)
+	(wire
+		(pts
+			(xy 298.48 285.314) (xy 298.48 277.934)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8518a33c-bcb3-4037-8be5-29aa62c3ba3f")
+	)
+	(wire
+		(pts
+			(xy 462.72 347.354) (xy 478.72 347.354)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "854207bc-98ee-4477-ad42-9700b3aae42a")
+	)
+	(wire
+		(pts
+			(xy 424.18 338.074) (xy 429.26 338.074)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8590aaf0-aa38-4bf2-9685-ef4265549049")
+	)
+	(wire
+		(pts
+			(xy 391.48 254.854) (xy 396.48 254.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85a33f5d-794a-45ab-a0d4-a16962f21d21")
+	)
+	(wire
+		(pts
+			(xy 291.74 345.134) (xy 291.74 344.874)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "864ba6cc-d4d9-42e0-8cc8-8e92fefb32e7")
+	)
+	(wire
+		(pts
+			(xy 505.46 315.214) (xy 514.18 315.214)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86698a7d-2b0d-4a66-aefc-d621a4bb8c67")
+	)
+	(wire
+		(pts
+			(xy 332.02 345.174) (xy 343.02 345.174)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "866c1192-2f87-4bf4-bc33-078e46d74843")
+	)
+	(wire
+		(pts
+			(xy 282.48 288.314) (xy 303.56 288.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "868030e4-214f-41c9-8595-ba9e55bae4c4")
+	)
+	(wire
+		(pts
+			(xy 444.82 444.234) (xy 445.42 444.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86e3cde6-23ff-4eb1-ac9a-fb30a09d2f46")
+	)
+	(wire
+		(pts
+			(xy 429.26 322.834) (xy 424.18 322.834)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88210a76-7c2a-4c87-81bf-6492cade5d75")
+	)
+	(wire
+		(pts
+			(xy 462.72 326.354) (xy 483.22 326.354)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f078ee3-9a96-4867-98e5-ec251df1554f")
+	)
+	(wire
+		(pts
+			(xy 474.92 286.674) (xy 489.84 286.674)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f8e9843-e3c5-4c25-a273-201a33a350d6")
+	)
+	(wire
+		(pts
+			(xy 291.74 322.134) (xy 291.74 322.014)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91a7ef55-44ae-400a-9f39-cbd9d7ee2640")
+	)
+	(wire
+		(pts
+			(xy 409.86 426.234) (xy 410.26 426.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91b6e5c2-4a73-407e-90db-18b91cfeaac0")
+	)
+	(wire
+		(pts
+			(xy 435.26 401.574) (xy 420.02 401.574)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9277837f-eb40-4f0a-bb1a-e0051ac9d812")
+	)
+	(wire
+		(pts
+			(xy 303.56 255.314) (xy 303.56 258.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9365f87e-c16f-41d6-9aca-f2059d71cc39")
+	)
+	(wire
+		(pts
+			(xy 428.7 268.854) (xy 428.86 268.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93e0faad-ec7f-4ac3-8fda-9f456a6ac3fa")
+	)
+	(wire
+		(pts
+			(xy 445.42 454.914) (xy 445.42 444.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94419416-04b9-4092-bfc3-ad0633b9459a")
+	)
+	(wire
+		(pts
+			(xy 409.86 417.234) (xy 388.62 417.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94705dd4-73d6-4585-bbbb-5a9bc3a6774c")
+	)
+	(wire
+		(pts
+			(xy 434.34 454.914) (xy 420.58 454.914)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "960983eb-379b-4acc-821e-92e61af92c9d")
+	)
+	(wire
+		(pts
+			(xy 526.26 273.814) (xy 526.099 273.814)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96659f75-533c-4bc5-96f5-42249fa4c6d1")
+	)
+	(wire
+		(pts
+			(xy 376.32 288.854) (xy 396.48 288.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "980a3cb9-0020-4bbd-ac2f-546db474cc86")
+	)
+	(wire
+		(pts
+			(xy 356.859 291.314) (xy 356.859 281.814)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98661fc2-0385-4b50-8c56-d5f8ebe5091d")
+	)
+	(wire
+		(pts
+			(xy 414.02 322.834) (xy 403.86 322.834)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9933d767-ba84-4c46-b4d7-15f9cb3a4bb3")
+	)
+	(wire
+		(pts
+			(xy 351.779 274.194) (xy 351.779 264.974)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99b57451-d320-4fef-b9f7-c08573454dde")
+	)
+	(wire
+		(pts
+			(xy 462.72 323.354) (xy 462.72 323.614)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a5ec314-ebe4-44c5-90ca-f853da40ff2d")
+	)
+	(wire
+		(pts
+			(xy 293.4 282.314) (xy 293.48 282.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b043d28-d6a5-42f8-bc76-825439c70268")
+	)
+	(wire
+		(pts
+			(xy 332.02 339.454) (xy 343.02 339.454)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9beecd53-52c0-478f-85ae-993c9ecd8bd7")
+	)
+	(wire
+		(pts
+			(xy 409.86 444.234) (xy 409.86 426.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d5d00db-28e5-42a0-a51c-e3bdf7cd877d")
+	)
+	(wire
+		(pts
+			(xy 343.02 342.174) (xy 343.02 341.994)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9edcfd4f-33b0-4907-b50b-3f82ed9f22c5")
+	)
+	(wire
+		(pts
+			(xy 291.74 337.634) (xy 291.74 337.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f3fef50-84b9-47e5-9f81-c39676ca3a80")
+	)
+	(wire
+		(pts
+			(xy 278.74 332.134) (xy 291.74 332.134)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f9eea17-62b1-4a68-a475-7a0a3d0f4fe6")
+	)
+	(wire
+		(pts
+			(xy 472.44 315.214) (xy 472.44 302.514)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a242099c-b8eb-4b5c-b073-7723a29a795b")
+	)
+	(wire
+		(pts
+			(xy 514.18 338.514) (xy 505.46 338.514)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2b7ec4f-02a3-4bc2-99f0-bb1ac1b03749")
+	)
+	(wire
+		(pts
+			(xy 484.76 268.054) (xy 484.92 268.054)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4c7877a-c89f-426d-be61-f82b6b01ba78")
+	)
+	(wire
+		(pts
+			(xy 331.02 324.214) (xy 343.02 324.214)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7bd9fec-d82f-47e0-8c9b-091cfae6803f")
+	)
+	(wire
+		(pts
+			(xy 485.14 415.154) (xy 485.14 414.274)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a95ed5da-48b3-4290-92c2-760979724fea")
+	)
+	(wire
+		(pts
+			(xy 433.86 255.854) (xy 438.86 255.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aae5b5ae-0e46-4550-b46a-0a3499c4a8f1")
+	)
+	(wire
+		(pts
+			(xy 515.26 290.314) (xy 536.259 290.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab00acb8-5872-434d-ac89-3575ab345630")
+	)
+	(wire
+		(pts
+			(xy 433.78 268.514) (xy 433.86 268.514)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab1362a0-f6b0-4a04-a56a-d5145368a56c")
+	)
+	(wire
+		(pts
+			(xy 332.02 342.174) (xy 343.02 342.174)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae291b4e-e112-4e3e-8aa5-1f20bb7eabde")
+	)
+	(wire
+		(pts
+			(xy 515.26 287.314) (xy 531.179 287.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae40c305-814f-4d9b-8e65-7d46524534d3")
+	)
+	(wire
+		(pts
+			(xy 381 324.734) (xy 381 325.374)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b01f0d47-08a9-4d36-b08c-725f72fabde9")
+	)
+	(wire
+		(pts
+			(xy 420.58 444.234) (xy 419.42 444.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b17a8154-2547-4b21-8e3f-fab64abedd88")
+	)
+	(wire
+		(pts
+			(xy 386.48 254.854) (xy 391.48 254.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1f2e839-55f9-4135-b38f-c1d004a717c7")
+	)
+	(wire
+		(pts
+			(xy 386.08 322.834) (xy 381 322.834)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2017f33-a1dc-4e8c-a3d2-57264c9c7aae")
+	)
+	(wire
+		(pts
+			(xy 514.18 315.214) (xy 514.18 315.654)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b27ec457-6271-44c1-b45d-1f65ea3c7801")
+	)
+	(wire
+		(pts
+			(xy 291.24 299.974) (xy 291.24 304.634)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b47b4a4a-fcfb-4d5d-a819-e6ca4f863a21")
+	)
+	(wire
+		(pts
+			(xy 386.32 269.854) (xy 386.32 267.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b683bb67-b74f-4e43-9457-3526e35574f5")
+	)
+	(wire
+		(pts
+			(xy 331.02 324.174) (xy 331.02 324.214)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b72f4f32-34ce-4884-83c6-c714e3581012")
+	)
+	(wire
+		(pts
+			(xy 418.86 288.854) (xy 438.86 288.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b74d5a18-2103-437d-b2c6-6054d0209742")
+	)
+	(wire
+		(pts
+			(xy 298.56 255.314) (xy 303.56 255.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b856ac1e-a9a1-48a4-860f-4c61810c5b47")
+	)
+	(wire
+		(pts
+			(xy 278.74 324.634) (xy 278.74 324.554)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b856e41b-393a-4ae5-a1bd-d5ceb58a4c60")
+	)
+	(wire
+		(pts
+			(xy 343.02 321.674) (xy 343.02 317.334)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8832a9d-7926-409a-850a-fc42e8cca2d6")
+	)
+	(wire
+		(pts
+			(xy 409.26 396.194) (xy 409.26 395.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8bad3eb-46b6-48ac-bff0-0e8995f11502")
+	)
+	(wire
+		(pts
+			(xy 531.179 255.314) (xy 526.099 255.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b99dd449-c860-4668-9df8-1cf3b2d9bbc9")
+	)
+	(wire
+		(pts
+			(xy 356.859 274.194) (xy 356.859 265.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd30a6de-5d1d-48dc-9198-e2863aaf72bd")
+	)
+	(wire
+		(pts
+			(xy 433.78 285.854) (xy 433.78 278.474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bea850e0-d697-4578-9b7e-fdd8be5827a0")
+	)
+	(wire
+		(pts
+			(xy 396.48 254.854) (xy 396.48 257.694)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0c3015d-cc9f-48e3-a05a-d00bf8a4499a")
+	)
+	(wire
+		(pts
+			(xy 279.24 339.794) (xy 291.74 339.794)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c27e2ad3-d095-4c18-8c4e-bb35488e5bb8")
+	)
+	(wire
+		(pts
+			(xy 293.4 268.314) (xy 293.56 268.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3e7fea5-6314-4562-9e34-f107fb863f04")
+	)
+	(wire
+		(pts
+			(xy 474.92 283.674) (xy 484.76 283.674)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c687e02f-4bdc-4ba2-9ed9-932a26dda7cf")
+	)
+	(wire
+		(pts
+			(xy 381 332.994) (xy 386.08 332.994)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6e0a8fd-59db-4a2c-b735-176f706c2d59")
+	)
+	(wire
+		(pts
+			(xy 462.72 328.694) (xy 483.22 328.694)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8d35848-5fd8-4481-992e-5b6a31651333")
+	)
+	(wire
+		(pts
+			(xy 346.699 285.314) (xy 346.699 281.814)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9aa9c75-08c2-4a75-9ebe-cfb9098cc468")
+	)
+	(wire
+		(pts
+			(xy 462.72 323.614) (xy 483.22 323.614)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb42a22a-79df-4e60-ba46-19516aa8c676")
+	)
+	(wire
+		(pts
+			(xy 351.859 254.814) (xy 351.859 255.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb8f6074-3bf5-46a9-89a8-7725b933427a")
+	)
+	(wire
+		(pts
+			(xy 278.74 337.634) (xy 291.74 337.634)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc124994-7271-4d3e-b4f6-5dd81ef0cdfa")
+	)
+	(wire
+		(pts
+			(xy 424.18 343.154) (xy 429.26 343.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0619716-23a9-4000-81da-82a4d3536eb3")
+	)
+	(wire
+		(pts
+			(xy 483.22 331.354) (xy 483.22 331.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d29b1542-cdf6-4ded-bfd1-2cfa1a3cfede")
+	)
+	(wire
+		(pts
+			(xy 531.179 287.314) (xy 531.179 273.814)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6b1efe4-3e98-43e7-8734-b04a024a7807")
+	)
+	(wire
+		(pts
+			(xy 391.4 267.514) (xy 391.48 267.514)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da03fa02-28d7-49d9-b97d-73367064fcbd")
+	)
+	(wire
+		(pts
+			(xy 433.86 255.854) (xy 433.86 258.354)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbe136b6-5a73-4cc8-8dd3-647727c8ad79")
+	)
+	(wire
+		(pts
+			(xy 381 345.694) (xy 386.08 345.694)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd546bc7-3fac-425e-9a75-3b0694d58156")
+	)
+	(wire
+		(pts
+			(xy 462.72 339.354) (xy 483.22 339.354)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df3a3ff6-1c93-4145-b6c8-fef9f73a77b9")
+	)
+	(wire
+		(pts
+			(xy 495.3 415.154) (xy 495.3 411.734)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df51508c-1405-44be-9f56-18ab392ded0c")
+	)
+	(wire
+		(pts
+			(xy 510.54 439.674) (xy 520.7 439.674)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1773fe6-97b3-47f5-9470-d6fa0e0cb166")
+	)
+	(wire
+		(pts
+			(xy 514.18 313.114) (xy 513.18 313.114)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1819db2-e618-4262-a9c8-e401ff9869f8")
+	)
+	(wire
+		(pts
+			(xy 462.72 341.354) (xy 462.72 341.394)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1dbf0a3-e40a-4495-8c19-a8e5f1334be6")
+	)
+	(wire
+		(pts
+			(xy 381 329.734) (xy 381 330.454)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e353a62d-cc5f-4aad-8a70-60a377d4bb9f")
+	)
+	(wire
+		(pts
+			(xy 336.02 347.174) (xy 343.02 347.174)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e46f5682-eeb3-4134-b509-7c530936af6e")
+	)
+	(wire
+		(pts
+			(xy 381 338.074) (xy 386.08 338.074)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e72001e3-11d4-4000-9cb1-94db68f79665")
+	)
+	(wire
+		(pts
+			(xy 381 340.614) (xy 386.08 340.614)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8144f8c-2d26-4922-9f06-e7e5b0594366")
+	)
+	(wire
+		(pts
+			(xy 391.4 285.854) (xy 376.32 285.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8d7e010-658e-4f13-b19d-9a9f9ddfdabf")
+	)
+	(wire
+		(pts
+			(xy 466.42 415.154) (xy 466.42 421.894)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eac6aad1-b3b6-4404-a0b3-6347b011b0bc")
+	)
+	(wire
+		(pts
+			(xy 396.48 269.854) (xy 396.48 267.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb5c0f9e-a19a-4d83-82e6-d188d1f3f180")
+	)
+	(wire
+		(pts
+			(xy 278.74 334.634) (xy 278.74 334.714)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebc7a6f0-1697-45e7-967a-973442d2698a")
+	)
+	(wire
+		(pts
+			(xy 343.02 345.174) (xy 343.02 344.534)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec6d6c41-9ab5-468d-9f5f-615ab540ebf5")
+	)
+	(wire
+		(pts
+			(xy 336.86 291.314) (xy 356.859 291.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ece97d2c-67f4-4e95-a597-621f3a10cbe2")
+	)
+	(wire
+		(pts
+			(xy 293.56 255.314) (xy 298.56 255.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed514306-44cf-4154-acbd-43bb1536c07d")
+	)
+	(wire
+		(pts
+			(xy 483.22 336.354) (xy 483.22 336.314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efd52728-2257-4dbf-970c-cfa030fa00be")
+	)
+	(wire
+		(pts
+			(xy 438.86 255.854) (xy 438.86 258.694)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f093b642-8014-417a-a9f3-faef1718df80")
+	)
+	(wire
+		(pts
+			(xy 526.099 255.314) (xy 526.099 256.034)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f14a6e2b-9bed-43c1-9246-222c02c94ddf")
+	)
+	(wire
+		(pts
+			(xy 531.179 255.314) (xy 531.179 256.034)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f31a2b92-e4fa-495c-867f-98b0071b8feb")
+	)
+	(wire
+		(pts
+			(xy 409.86 409.194) (xy 408.94 409.194)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6595eb1-e439-4ea7-ac9a-9414e863e144")
+	)
+	(wire
+		(pts
+			(xy 418.86 285.854) (xy 433.78 285.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7f6d937-d1f8-4817-897a-cd7b000f4c4f")
+	)
+	(wire
+		(pts
+			(xy 343.02 307.174) (xy 343.02 297.434)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8b75d32-a608-4e36-be07-b3922945cda1")
+	)
+	(wire
+		(pts
+			(xy 513.18 313.114) (xy 513.18 304.734)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f973c0d4-a9fa-4b90-91f0-fe4a754c1b61")
+	)
+	(wire
+		(pts
+			(xy 472.44 302.514) (xy 503.02 302.514)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9e4dc9f-2ad7-4c33-ac01-20343ed03455")
+	)
+	(wire
+		(pts
+			(xy 408.94 409.194) (xy 408.94 396.194)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9f7847a-44da-477c-a006-a37501c5e532")
+	)
+	(wire
+		(pts
+			(xy 482.6 439.674) (xy 500.38 439.674)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faacf2d9-1c5e-4185-94dc-841920446360")
+	)
+	(wire
+		(pts
+			(xy 445.42 401.574) (xy 445.42 395.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fabc9344-86f2-4cf0-bc20-0eed31cc40ee")
+	)
+	(wire
+		(pts
+			(xy 343.02 335.534) (xy 343.02 336.914)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb0b9482-f197-4b7a-b016-c7efaf8f8e84")
+	)
+	(wire
+		(pts
+			(xy 466.42 415.154) (xy 485.14 415.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc00b8f7-fdf5-412e-a170-0e0f18b8ff92")
+	)
+	(wire
+		(pts
+			(xy 381 325.374) (xy 386.08 325.374)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd0a0b50-023e-4668-b35f-75375dca378a")
+	)
+	(wire
+		(pts
+			(xy 536.259 290.314) (xy 536.259 273.814)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd7c4b86-f5c7-4639-89ad-6c0147ec0697")
+	)
+	(wire
+		(pts
+			(xy 514.18 335.534) (xy 514.18 335.974)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe7f66c8-bf89-4511-95e0-a7290cbea7e8")
+	)
+	(label "m1_5"
+		(at 381 338.074 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06369d7f-6742-4ea2-86fa-cef583f6217f")
+	)
+	(label "pwm_g_6"
+		(at 515.26 287.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "08e943c3-6c8d-481d-91b9-b94878bc40e8")
+	)
+	(label "m1_1"
+		(at 381 348.234 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0dd2e529-2102-4c1d-b1d6-ac4ebdbb6cb5")
+	)
+	(label "s1_1"
+		(at 279.74 345.134 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0f96f10c-6961-4b90-b36a-f9d730deb22b")
+	)
+	(label "pwm_b_4"
+		(at 418.86 288.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "12686caa-8d19-44b0-967a-6c816d68989c")
+	)
+	(label "pwm_r_6"
+		(at 515.26 284.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "191e5572-7b20-4612-9f2e-8b95ee7bcd89")
+	)
+	(label "pwm_b_5"
+		(at 474.92 289.674 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "20ed965d-6097-49d3-89f6-96234507183d")
+	)
+	(label "HV_175"
+		(at 482.6 302.514 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e3d41ce-c056-454b-a150-d78e25d0f1a0")
+	)
+	(label "m1_8"
+		(at 381 330.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3381fc77-5521-41f8-a900-70ba7c546dd5")
+	)
+	(label "m1_0"
+		(at 381 325.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3c7235e6-5f99-4f40-a229-bb7f695f254e")
+	)
+	(label "m1_9"
+		(at 381 327.914 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3cf24bb1-7253-4502-98f8-fe701ccb01ae")
+	)
+	(label "HV_175"
+		(at 363.22 322.834 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d500426-123f-4e67-ac39-33f7731d5a66")
+	)
+	(label "m1_4"
+		(at 381 340.614 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d5e7d1d-2898-447d-a36b-7d0ba0bb9106")
+	)
+	(label "s1_9"
+		(at 278.74 324.634 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f1ffdfa-0244-41f6-8d40-75c55b85694f")
+	)
+	(label "pwm_r_1"
+		(at 282.48 282.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4000d226-6059-481d-a690-c67798429151")
+	)
+	(label "s1_0"
+		(at 279.24 322.134 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "44a2f7b8-3369-4793-af99-59a4245f7641")
+	)
+	(label "m2_0"
+		(at 424.18 325.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "45fe5515-af42-466e-a512-139add74a2f7")
+	)
+	(label "pwm_b_6"
+		(at 515.26 290.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d6011d0-13c3-44a9-b6c6-856941295744")
+	)
+	(label "h2_2"
+		(at 505.46 335.534 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4fc4367e-b698-4639-9aa4-8a46b4e69ecb")
+	)
+	(label "s1_3"
+		(at 279.24 339.794 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "500bcd6b-9e1a-4cec-8714-c7ac470f82d4")
+	)
+	(label "HV_175"
+		(at 284.48 299.974 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "510320b1-e9d9-4815-8346-cbff99eaa900")
+	)
+	(label "s2_5"
+		(at 332.74 335.534 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "53b2d83f-78ef-462f-a8bf-913a7e84ed22")
+	)
+	(label "digi_sec_2nd"
+		(at 520.7 439.674 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c45705a-2b0f-4444-ac69-30c055438894")
+	)
+	(label "h1_1"
+		(at 462.72 347.354 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5e0a5976-b22f-4dc0-9f23-f2dd16a6dc62")
+	)
+	(label "s1_2"
+		(at 279.74 342.134 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6077a1f7-4959-414f-8cbb-085cfb22fd82")
+	)
+	(label "s1_4"
+		(at 278.74 337.634 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "631ceeab-5ac4-4755-870e-719373c62aa9")
+	)
+	(label "m2_4"
+		(at 424.18 340.614 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "66370c12-a71c-40e9-a926-b1e87d133ba9")
+	)
+	(label "h1_5"
+		(at 462.72 336.354 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "66f50688-d9d4-41df-927a-24ee2d7900db")
+	)
+	(label "pwm_g_1"
+		(at 282.48 285.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "68c2eb2e-4399-4d39-b4be-e52ed24928f2")
+	)
+	(label "h1_2"
+		(at 462.72 344.354 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6e4a852b-608f-4662-88c0-e6cb3967592f")
+	)
+	(label "HV_175"
+		(at 388.62 417.234 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "783282df-7e9d-4d43-af4f-17256536b36e")
+	)
+	(label "s2_4"
+		(at 332.02 339.174 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7a9b30b7-525e-4157-84c4-1c9f24433e6f")
+	)
+	(label "s1_7"
+		(at 278.74 329.634 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7aafe486-604a-40b7-90f4-55f6c4422df5")
+	)
+	(label "h2_1"
+		(at 505.46 338.074 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "81ce9f3e-6ace-4a6b-b403-34b1196f7749")
+	)
+	(label "pwm_g_4"
+		(at 418.86 285.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8330e27f-71c2-49f1-a91c-813921f9ecd0")
+	)
+	(label "pwm_r_4"
+		(at 418.86 282.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "83d7fa68-8fd3-4975-aef7-265302e70bee")
+	)
+	(label "pwm_b_3"
+		(at 376.32 288.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "84b5e0cf-3221-434f-9c7b-d146a940f1d6")
+	)
+	(label "s2_2"
+		(at 332.02 345.174 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "872eaee5-967f-4db3-8ea8-048e40a219ab")
+	)
+	(label "pwm_g_3"
+		(at 376.32 285.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "90b778c3-0bf8-4d1e-9df9-50a742163862")
+	)
+	(label "m2_5"
+		(at 424.18 338.074 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "92ae78a6-876d-4671-8a9b-b4d59c68ecf6")
+	)
+	(label "h1_6"
+		(at 462.72 334.354 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95a13f5a-180b-4e03-95a2-b633327fc5d7")
+	)
+	(label "pwm_g_2"
+		(at 336.86 288.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "971ef83b-41b8-485a-8921-774fa668c157")
+	)
+	(label "h1_0"
+		(at 462.72 323.354 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "99655e96-7b4b-4a10-948f-b5702fc1d717")
+	)
+	(label "pwm_b_2"
+		(at 336.86 291.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9b5be6a7-4bd8-4227-852b-fc70206019d3")
+	)
+	(label "h1_3"
+		(at 462.72 341.354 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a64ef3cd-1bb6-4bfa-a8ff-1a56510d0cf4")
+	)
+	(label "h2_0"
+		(at 505.46 315.214 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a8fdcc12-3f87-4174-a7b7-dd92c0f65978")
+	)
+	(label "pwm_r_5"
+		(at 474.92 283.674 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ac402321-a474-4772-a694-f49ea1d1f3d5")
+	)
+	(label "pwm_b_1"
+		(at 282.48 288.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aff316a6-0606-4ca4-994b-42f0ac9acf40")
+	)
+	(label "s1_5"
+		(at 278.74 334.634 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b3c19a5e-25b5-4c16-b41e-232f2e5f9491")
+	)
+	(label "m1_7"
+		(at 381 332.994 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bc5dc010-d401-44a8-942c-61f25677099c")
+	)
+	(label "m2_2"
+		(at 424.18 345.694 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c226267b-664f-4b5a-bfaf-315e4744d294")
+	)
+	(label "HV_175"
+		(at 403.86 322.834 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c2431161-78d0-4590-b915-1ec1ddc7c3ed")
+	)
+	(label "h1_4"
+		(at 462.72 339.354 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c270360c-90d2-4ab5-912f-3a0679f93d09")
+	)
+	(label "m1_2"
+		(at 381 345.694 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c601019d-d795-4b48-bf71-b7af847de74e")
+	)
+	(label "m1_3"
+		(at 381 343.154 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c8af9eae-c468-4319-9b03-7b1e071d2947")
+	)
+	(label "h1_7"
+		(at 462.72 331.354 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cc455c10-20b6-4937-99e2-3c9d07897125")
+	)
+	(label "s2_1"
+		(at 336.02 347.174 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ce731008-054f-439a-b1b0-786f0b3d244b")
+	)
+	(label "h1_9"
+		(at 462.72 326.354 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cf87085e-af4f-4159-b989-ea6f9a289472")
+	)
+	(label "s1_8"
+		(at 278.74 327.134 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d0b5a488-e363-4009-839c-932ced47ec5d")
+	)
+	(label "pwm_r_3"
+		(at 376.32 282.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dbf8eb73-4a5b-4d7c-9fdd-a33db7e65d8a")
+	)
+	(label "s2_0"
+		(at 331.02 324.174 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dd36c6f2-fa72-4bc5-8cbb-6fbb56a6a854")
+	)
+	(label "s2_3"
+		(at 332.02 342.174 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e09ee8c5-7045-4060-9e4d-5737a8ab54f5")
+	)
+	(label "pwm_r_2"
+		(at 336.86 285.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e3fefc9d-1621-4c68-94b6-58108d64acc4")
+	)
+	(label "s1_6"
+		(at 279.4 332.134 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e69ae870-4e92-4a31-9639-c148159b844f")
+	)
+	(label "m2_3"
+		(at 424.18 343.154 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e7d767c4-34bc-46a2-ac0a-57fe13d7c022")
+	)
+	(label "m2_1"
+		(at 424.18 348.234 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8a6aec3-5fd7-42f7-8cfc-45531d1f5968")
+	)
+	(label "h1_8"
+		(at 462.72 328.354 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eef10372-bd2e-49be-b66b-e206b83a1618")
+	)
+	(label "m1_6"
+		(at 381 335.534 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ef587b48-3e47-4387-befd-a5246e7179b7")
+	)
+	(label "pwm_g_5"
+		(at 474.92 286.674 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f6f73b77-5f60-4a0f-b70a-c9f52c590e1e")
+	)
+	(label "HV_175"
+		(at 343.02 297.434 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fc2258cb-38aa-4dd3-8c8b-8551573ad1b5")
+	)
+	(symbol
+		(lib_id "nixie_2025_v3-altium-import:+5VDC_BAR")
+		(at 484.92 255.054 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "00e37058-1c2f-456f-b7a9-e963146e7aa4")
+		(property "Reference" "#PWR?"
+			(at 484.92 255.054 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5VDC"
+			(at 484.92 251.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 484.92 255.054 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 484.92 255.054 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 484.92 255.054 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "c50afc32-3bc8-441b-8a0b-7153960346a8")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_2_RES0805_moroLib2.SchLib")
+		(at 508.1 304.734 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "01ba1d63-3031-4e2a-ae1c-93ca7397c1c2")
+		(property "Reference" "R29"
+			(at 505.306 303.972 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 505.306 308.036 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 508.1 304.734 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 508.1 304.734 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 508.1 304.734 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "2k"
+			(at 505.306 310.576 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "859d6610-4712-4cd1-9fb5-9e1761e453f7")
+		)
+		(pin "2"
+			(uuid "a3daeb39-c831-402c-ab42-0fa5905c70fa")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_RES0805_moroLib2.SchLib")
+		(at 440.34 434.594 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "02974f3f-76cc-419e-a6ed-4006c1f60c2f")
+		(property "Reference" "R53"
+			(at 437.546 433.832 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 437.546 437.896 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 440.34 434.594 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 440.34 434.594 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 440.34 434.594 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "*"
+			(at 437.546 440.436 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1"
+			(uuid "de352a3d-9c5f-45d7-9a09-374f0c4ea4c0")
+		)
+		(pin "2"
+			(uuid "6bcf7ca9-8d5c-43da-ac28-6c68675d467d")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_2_RES0805_moroLib2.SchLib")
+		(at 375.92 322.834 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "02983f47-0284-4f21-9b31-c19e126adc9f")
+		(property "Reference" "R27"
+			(at 373.126 322.072 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 373.126 326.136 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 375.92 322.834 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 375.92 322.834 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 375.92 322.834 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "2k2"
+			(at 373.126 328.676 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "PARAMETER 1" "2k2"
+			(at 370.332 331.216 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "c8f22c43-bd92-4088-824d-2528785fa110")
+		)
+		(pin "1"
+			(uuid "d6412324-09d7-4857-be09-c14454a5f5d4")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 531.179 261.114 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "05730792-b840-4b8b-befc-79c0b6c43203")
+		(property "Reference" "R41"
+			(at 531.941 260.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 531.941 263.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 531.179 261.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 531.179 261.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 531.179 261.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 531.941 265.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "acf94eb8-200e-416a-8dae-7d24eeea07dc")
+		)
+		(pin "1"
+			(uuid "0149305a-ae2b-4578-9722-11c7448cd78f")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_IN-12 tube_moroLib2.SchLib")
+		(at 393.7 325.374 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "08ce8d29-e820-41b5-8798-7197d776b273")
+		(property "Reference" "Tub3"
+			(at 393.7 320.294 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "minutes digit1 [0...9"
+			(at 393.7 355.854 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "IN-12 soket"
+			(at 393.7 325.374 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 393.7 325.374 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 393.7 325.374 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "7590c22c-0c22-4256-8d39-19a1d981b205")
+		)
+		(pin "7"
+			(uuid "4c75543c-397f-4e95-a09b-55933fc80ecb")
+		)
+		(pin "11"
+			(uuid "fd3fdb51-3b07-44aa-9e84-9f6a331aa871")
+		)
+		(pin "1"
+			(uuid "f57818f2-c707-49d3-afad-86bdb321fdb0")
+		)
+		(pin "6"
+			(uuid "526293f5-ab4e-4f13-8f41-2183f8699849")
+		)
+		(pin "10"
+			(uuid "10be34f1-46f1-4b73-97fa-d851db846325")
+		)
+		(pin "12"
+			(uuid "028d4143-baef-4995-8660-341e4df60e7a")
+		)
+		(pin "2"
+			(uuid "9a8fed46-2bd0-4e11-b78d-1d6bb76d54f4")
+		)
+		(pin "3"
+			(uuid "5e0c61f9-b140-4a04-b694-15843a2e7b45")
+		)
+		(pin "5"
+			(uuid "cb7d6c45-7dd8-4cd0-a11f-81a02874769f")
+		)
+		(pin "9"
+			(uuid "a060a818-3f64-44f7-b125-0a786a5d52ff")
+		)
+		(pin "8"
+			(uuid "5d564f81-f3cf-4a69-8191-4baac2ac2d9a")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Tub3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_3_ASMT-YTD9-0AA02_moroLib2.SchLib")
+		(at 351.779 276.734 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0a52c867-8b9a-46a7-b3ca-b664c3616d4e")
+		(property "Reference" "Led2"
+			(at 340.86 274.314 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "ASMT-YTD9-0AA02"
+			(at 322.86 280.314 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "ASMT-YTD9-0AA02"
+			(at 351.779 276.734 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 351.779 276.734 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 351.779 276.734 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "ASMT-YTD9-0AA02"
+			(at 322.86 284.862 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "cf53bbfc-73ad-41c9-8455-98fd90ecb20b")
+		)
+		(pin "3"
+			(uuid "9d6f0b7c-9743-44ed-96c1-adfec4320ed0")
+		)
+		(pin "6"
+			(uuid "f62c5a99-8b01-4cf1-a82d-f654d62568a4")
+		)
+		(pin "5"
+			(uuid "485fc195-5328-4dfd-aad9-531c66750fd5")
+		)
+		(pin "1"
+			(uuid "eb4bd8ab-c4d2-4574-ab57-9ec829fbb757")
+		)
+		(pin "4"
+			(uuid "0f429597-174e-4d6d-ae5c-2c6b620bfb46")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Led2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 489.92 262.634 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "128d487f-98f7-42bf-a214-be234c3557d3")
+		(property "Reference" "R15"
+			(at 490.682 262.38 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 490.682 264.92 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 489.92 262.634 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 489.92 262.634 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 489.92 262.634 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 490.682 267.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1"
+			(uuid "43fa4e7a-6f7a-470a-be10-44b172695f32")
+		)
+		(pin "2"
+			(uuid "a15abfc3-0788-45fc-8a90-357fbb9adfc9")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_IN-12 tube_moroLib2.SchLib")
+		(at 350.64 324.214 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1c9870f2-2297-4cf6-9620-64cea979c9d2")
+		(property "Reference" "Tub2"
+			(at 350.64 319.134 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "seconds digit2 [0..5]"
+			(at 350.64 354.694 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "IN-12 soket"
+			(at 350.64 324.214 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 350.64 324.214 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 350.64 324.214 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "868ed66a-2bbc-45e0-a0aa-d3c114671923")
+		)
+		(pin "5"
+			(uuid "c037973f-5f17-4b84-b156-cc680cb67a12")
+		)
+		(pin "12"
+			(uuid "fcdda3d5-1ca7-4204-b345-8275da64f2b4")
+		)
+		(pin "11"
+			(uuid "827b856e-2a98-443f-8662-2eb35a6f097c")
+		)
+		(pin "6"
+			(uuid "c1b63ce8-c469-4872-9ad3-00d089fa3b96")
+		)
+		(pin "9"
+			(uuid "f68f184d-7c4f-4152-8b13-93670c93fa3f")
+		)
+		(pin "1"
+			(uuid "11a85809-84af-4dc5-9277-22538baa0656")
+		)
+		(pin "2"
+			(uuid "f6aeebc7-5d04-4d02-b838-a925c6258966")
+		)
+		(pin "10"
+			(uuid "711d17cb-1f92-41e8-bdb6-8c40da5ed6d9")
+		)
+		(pin "7"
+			(uuid "775e291b-fe9e-4843-8a13-7f81f2c5cca8")
+		)
+		(pin "8"
+			(uuid "c1af6860-8bda-49ed-8c18-2f82de4356b3")
+		)
+		(pin "3"
+			(uuid "73ca993a-8904-4a74-b190-eb89ead49748")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Tub2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 438.86 263.774 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "22e5b33d-42c4-4d8e-825f-a10cb0b82372")
+		(property "Reference" "R39"
+			(at 439.622 263.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 439.622 266.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 438.86 263.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 438.86 263.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 438.86 263.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 439.622 268.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "c7beb010-a18c-428b-9fc9-22ea20207205")
+		)
+		(pin "1"
+			(uuid "72014acd-8983-4250-b0b4-8c9daac4bdb1")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_RES0805_moroLib2.SchLib")
+		(at 415.5 444.234 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "281012a0-03c2-44a3-affc-941f386e5284")
+		(property "Reference" "R70"
+			(at 411.48 442.214 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 412.706 447.536 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 415.5 444.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 415.5 444.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 415.5 444.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "150k"
+			(at 412.706 450.076 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "ad497627-dfd1-4107-bc15-53945e584a6a")
+		)
+		(pin "1"
+			(uuid "c13c9aae-933b-4b29-a05f-04f3279424f8")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R70")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_IN-3tube_moroLib2.SchLib")
+		(at 432.12 444.234 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "28c0136b-4d90-4b9d-b3f8-3d39a261cca1")
+		(property "Reference" "Tub10"
+			(at 427.04 439.154 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "IN-3"
+			(at 427.04 451.854 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "IN-3tube"
+			(at 432.12 444.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 432.12 444.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 432.12 444.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "13e6e120-ace1-4f77-b09e-f70b33618243")
+		)
+		(pin "2"
+			(uuid "5e0850da-82e3-4d90-9b7e-d711763cb783")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Tub10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nixie_2025_v3-altium-import:+5VDC_BAR")
+		(at 526.099 255.314 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "319fb8f5-26b4-491d-a87e-49438cd5a058")
+		(property "Reference" "#PWR?"
+			(at 526.099 255.314 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5VDC"
+			(at 526.099 251.504 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 526.099 255.314 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 526.099 255.314 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 526.099 255.314 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "45961afa-37b2-4a20-8f40-74c62c916e7d")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 536.259 261.114 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "32f8343d-a05d-4c46-96c2-2a92552f4dac")
+		(property "Reference" "R45"
+			(at 537.021 260.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 537.021 263.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 536.259 261.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 536.259 261.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 536.259 261.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 537.021 265.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "10ccca9a-bc8c-46ad-956f-137264c0015c")
+		)
+		(pin "1"
+			(uuid "e87ca4cc-320a-41f9-bbef-ba30337287f3")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 293.56 263.234 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "38f377e9-e968-4346-84f3-7dde549329a2")
+		(property "Reference" "R54"
+			(at 294.322 262.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 294.322 265.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 293.56 263.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.56 263.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 293.56 263.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "470"
+			(at 294.322 268.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "53c48276-2f1c-4c46-98b3-523d9cc92116")
+		)
+		(pin "1"
+			(uuid "9d4b0c12-858a-4d60-ba81-a546b8e29602")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 351.859 259.894 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "39cae9dc-c613-4f00-9913-4f44335f0f93")
+		(property "Reference" "R32"
+			(at 352.621 259.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 352.621 262.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 351.859 259.894 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 351.859 259.894 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 351.859 259.894 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 352.621 264.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1"
+			(uuid "44f8325b-4e69-41d6-809a-51cb011c7a20")
+		)
+		(pin "2"
+			(uuid "678d7c7d-bbbc-4dd2-8b34-6fe6d3546b25")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_RES0805_moroLib2.SchLib")
+		(at 440.34 416.814 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3a759e22-0176-4f7a-9141-27a9c6f6f747")
+		(property "Reference" "R52"
+			(at 437.546 416.052 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 437.546 420.116 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 440.34 416.814 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 440.34 416.814 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 440.34 416.814 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "*"
+			(at 437.546 422.656 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "55c47b8f-5717-4f1e-a8c1-2d4ac2b027b2")
+		)
+		(pin "1"
+			(uuid "9b12d7c5-bdcb-40de-8ab7-a4397e775f80")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_RES0805_moroLib2.SchLib")
+		(at 439.42 454.914 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3efdea5b-ffd6-429f-9de1-ee8139792fcb")
+		(property "Reference" "R55"
+			(at 436.626 454.152 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 436.626 458.216 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 439.42 454.914 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 439.42 454.914 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 439.42 454.914 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "*"
+			(at 436.626 460.756 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1"
+			(uuid "ba49bffa-c9ac-4030-8003-f36cbb7ce9c5")
+		)
+		(pin "2"
+			(uuid "1eea5911-9917-4f77-a3f8-e0ade8d48100")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_IN-12 tube_moroLib2.SchLib")
+		(at 490.84 323.614 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3f162a78-4db0-46c1-bf47-3355a435543a")
+		(property "Reference" "Tub5"
+			(at 490.84 318.534 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "hours digit 1 [0..9]"
+			(at 490.84 354.094 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "IN-12 soket"
+			(at 490.84 323.614 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 490.84 323.614 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 490.84 323.614 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "11"
+			(uuid "8d1bc707-eed5-4c82-b498-a43b6845067d")
+		)
+		(pin "9"
+			(uuid "1577802e-8ef3-45b9-a090-c3928d789447")
+		)
+		(pin "2"
+			(uuid "292408bd-a899-490c-ad9d-b059acbcd989")
+		)
+		(pin "3"
+			(uuid "637674e8-2aed-4552-95b6-673e587919b6")
+		)
+		(pin "4"
+			(uuid "cd5ddab9-b3f2-4a7d-ad2d-afe153eaeedd")
+		)
+		(pin "1"
+			(uuid "f578a3a6-4993-4c32-985b-a0310934a43f")
+		)
+		(pin "5"
+			(uuid "9539c15d-9dc2-41a9-9d91-9d5ee843172e")
+		)
+		(pin "6"
+			(uuid "2414bd26-ba4c-4400-b36c-ec05d0f21950")
+		)
+		(pin "8"
+			(uuid "27197d92-b463-47e7-8f4b-856ad3a09422")
+		)
+		(pin "7"
+			(uuid "d694bd19-d2fe-4ed5-b64c-48fea45d6f6c")
+		)
+		(pin "10"
+			(uuid "7d87e216-9e9d-43f4-9b9e-f9e5efc0100b")
+		)
+		(pin "12"
+			(uuid "d15824c3-fddb-46cc-8967-1b0548f6f251")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Tub5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 494.92 262.974 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "41c5fc04-2ac6-450a-9693-1ea80b495281")
+		(property "Reference" "R31"
+			(at 495.682 262.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 495.682 265.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 494.92 262.974 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 494.92 262.974 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 494.92 262.974 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 495.682 267.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "5355b5e5-09fe-414b-aaf7-be5ec65633b7")
+		)
+		(pin "1"
+			(uuid "29a78fa8-7d44-4f35-bf7b-707d5afe7c21")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_IN-12 tube_moroLib2.SchLib")
+		(at 521.8 315.654 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4789267b-ba59-4847-b7e1-19024b16af0d")
+		(property "Reference" "Tub6"
+			(at 521.8 310.574 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "hours digit 2 [0..2]"
+			(at 521.8 346.134 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "IN-12 soket"
+			(at 521.8 315.654 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 521.8 315.654 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 521.8 315.654 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "91d7d1d5-49b9-410f-afc1-3e5670090a19")
+		)
+		(pin "7"
+			(uuid "3c4158b8-51f5-4681-8b92-9a39f0ccaa08")
+		)
+		(pin "12"
+			(uuid "d08bba43-1060-4f69-9fbc-58fd0d5d9f44")
+		)
+		(pin "10"
+			(uuid "655b4e98-aadc-4b08-accf-d88c1d2562d5")
+		)
+		(pin "3"
+			(uuid "cf390732-ace2-491f-9d98-cfc35d719b75")
+		)
+		(pin "6"
+			(uuid "00314292-1c06-4a3d-9486-7901e61e50fa")
+		)
+		(pin "9"
+			(uuid "12178447-6c70-4a0d-a47b-c00a001b6d8e")
+		)
+		(pin "8"
+			(uuid "7c201e2f-eab9-4714-a086-e2b8e263e458")
+		)
+		(pin "5"
+			(uuid "68e488fc-000e-4623-82a8-c59e59d79576")
+		)
+		(pin "11"
+			(uuid "b6264fd6-3121-4a2a-9807-c611c97e3081")
+		)
+		(pin "1"
+			(uuid "13ea3464-e015-4d03-b2b0-9a67ef36908e")
+		)
+		(pin "4"
+			(uuid "7e487ae0-cae1-47fa-957f-fe201ef061eb")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Tub6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_IN-12 tube_moroLib2.SchLib")
+		(at 436.88 325.374 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4940e16b-ae76-4d98-922e-f75b9e0d3b58")
+		(property "Reference" "Tub4"
+			(at 436.88 320.294 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "minutes digit2 [0..5]"
+			(at 426.72 355.854 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "IN-12 soket"
+			(at 436.88 325.374 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 436.88 325.374 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 436.88 325.374 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "77a4eb24-a5bc-4030-8ee2-0dbef74910b1")
+		)
+		(pin "2"
+			(uuid "c55db411-1bbb-4ccc-b12c-79a77425aa39")
+		)
+		(pin "3"
+			(uuid "7ed55708-71ae-4329-80fb-fa2802288de9")
+		)
+		(pin "4"
+			(uuid "248ff44a-c886-4435-86cf-e50c930955e4")
+		)
+		(pin "7"
+			(uuid "8589f1ed-d8d9-4aeb-b10f-98077ca0ce28")
+		)
+		(pin "12"
+			(uuid "de72b41c-c8f9-4f0d-8d21-f79b7a20aebe")
+		)
+		(pin "5"
+			(uuid "b36be840-9922-4278-a112-fd5560f76d51")
+		)
+		(pin "6"
+			(uuid "46994426-9435-4c34-b554-2de03a3895f2")
+		)
+		(pin "9"
+			(uuid "ff72f4e8-017c-4dc1-8781-291d3e47c9f8")
+		)
+		(pin "11"
+			(uuid "79440051-58c9-4145-8a9a-911b9ec1264c")
+		)
+		(pin "8"
+			(uuid "e1f8d2a6-8624-4fa9-bd6b-efe01ed72964")
+		)
+		(pin "10"
+			(uuid "e6e20d6f-886d-4ece-a831-9f62ce27d269")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Tub4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_RES0603_moroLib2.SchLib")
+		(at 490.22 415.154 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "54b401a6-3013-438d-b331-cac8f99ad894")
+		(property "Reference" "R59"
+			(at 487.426 414.392 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 487.426 418.456 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 490.22 415.154 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 490.22 415.154 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 490.22 415.154 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "0"
+			(at 487.426 420.996 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "7e039d0b-d48f-46ad-9d49-41ecc4f0c2ac")
+		)
+		(pin "1"
+			(uuid "07230add-6623-48ec-903e-9b2a86827ab3")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nixie_2025_v3-altium-import:+5VDC_BAR")
+		(at 303.56 255.314 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "54c51582-bfb4-4051-b970-45841230d364")
+		(property "Reference" "#PWR?"
+			(at 303.56 255.314 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5VDC"
+			(at 303.56 251.504 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 303.56 255.314 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 303.56 255.314 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 303.56 255.314 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "11db0b9f-5d76-40b3-b93b-5c3a069557d9")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_RES0603_moroLib2.SchLib")
+		(at 505.46 439.674 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5559c4c1-b511-4f67-9c29-a5a42d3f6c12")
+		(property "Reference" "R60"
+			(at 502.666 438.912 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 502.666 442.976 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 505.46 439.674 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 505.46 439.674 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 505.46 439.674 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "*"
+			(at 502.666 445.516 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "f8d96ccd-cc44-4739-8874-b540f277e828")
+		)
+		(pin "1"
+			(uuid "13cb9838-b04a-4d56-8231-972cb404ab69")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nixie_2025_v3-altium-import:GND_POWER_GROUND")
+		(at 477.52 444.754 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6307f375-c6bd-4cb9-b6ac-2b0ad545dcbd")
+		(property "Reference" "#PWR?"
+			(at 477.52 444.754 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 477.52 451.104 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 477.52 444.754 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 477.52 444.754 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 477.52 444.754 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "b9673aa6-24d2-4610-ae3b-dd8d8b9b5b5f")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nixie_2025_v3-altium-import:+5VDC_BAR")
+		(at 386.48 254.854 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "670d446a-2704-4bc2-88fa-50c33a333e75")
+		(property "Reference" "#PWR?"
+			(at 386.48 254.854 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5VDC"
+			(at 386.48 251.044 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 386.48 254.854 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.48 254.854 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 386.48 254.854 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "c1bc79b6-6925-4584-9858-3f982711337b")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_RES0805_moroLib2.SchLib")
+		(at 440.34 401.574 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6a6192d7-a5e5-4623-b6e5-15e7a2bf552f")
+		(property "Reference" "R50"
+			(at 437.546 400.812 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 437.546 404.876 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 440.34 401.574 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 440.34 401.574 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 440.34 401.574 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "*"
+			(at 437.546 407.416 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "daca9cec-53a4-4d9f-9b64-39bbf29a8113")
+		)
+		(pin "1"
+			(uuid "b3145b93-aed7-4f41-83f8-65629859141c")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 346.859 260.234 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6aaa7705-ab2f-448b-aafd-17463859d141")
+		(property "Reference" "R33"
+			(at 347.621 259.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 347.621 262.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 346.859 260.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 346.859 260.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 346.859 260.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 347.621 265.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "91afa573-c48f-49c0-9e3e-313189be9839")
+		)
+		(pin "1"
+			(uuid "68d75f9b-fe68-47dc-8604-98a60437ad3a")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_RES0805_moroLib2.SchLib")
+		(at 415.34 426.234 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6b13aed6-e73a-4827-b0e5-4b0aa17f14c1")
+		(property "Reference" "R69"
+			(at 412.546 425.472 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 412.546 429.536 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 415.34 426.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 415.34 426.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 415.34 426.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "150k"
+			(at 412.546 432.076 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1"
+			(uuid "8b473219-e94b-4fea-bd73-4c4e0a922f75")
+		)
+		(pin "2"
+			(uuid "c2d5b80e-55e4-4fd9-9637-849a7bcdd4d5")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_2_RES0805_moroLib2.SchLib")
+		(at 477.52 315.214 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "77a39a15-724c-413d-abab-2ea27afbde35")
+		(property "Reference" "R30"
+			(at 474.726 314.452 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 474.726 318.516 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 477.52 315.214 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 477.52 315.214 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 477.52 315.214 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "2k"
+			(at 474.726 321.056 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "d1da673d-02ae-435b-91de-d2699b971f88")
+		)
+		(pin "2"
+			(uuid "86d25675-d5ac-4761-9102-376868d1576d")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 356.859 260.234 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "77f0474c-bfa1-4f1b-80b3-d2282f3a5c2b")
+		(property "Reference" "R35"
+			(at 357.621 259.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 357.621 262.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 356.859 260.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 356.859 260.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 356.859 260.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 357.621 265.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "0ad4692c-4130-495e-8685-405fa7332130")
+		)
+		(pin "1"
+			(uuid "fc6c63cd-aa88-4f9e-ae72-b7a198719bc6")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_IN-12 tube_moroLib2.SchLib")
+		(at 299.36 322.014 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7afd7330-2db8-4f34-8dae-417a5d619b28")
+		(property "Reference" "Tub1"
+			(at 299.36 316.934 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "seconds digit1 [0...9]"
+			(at 299.36 352.494 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "IN-12 soket"
+			(at 299.36 322.014 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 299.36 322.014 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 299.36 322.014 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "7"
+			(uuid "8e0d5746-984f-49dc-b8d5-c7b53972d865")
+		)
+		(pin "1"
+			(uuid "0bd0fbaa-e9f3-4cd1-8c22-6b88fe41ad74")
+		)
+		(pin "2"
+			(uuid "460c526e-ede5-4d7b-9e4f-e6b6b14d2912")
+		)
+		(pin "3"
+			(uuid "01a64356-e12e-413f-bcb6-464e3f9c33e7")
+		)
+		(pin "5"
+			(uuid "c61ac6f4-a2cd-4d10-96cf-ba96e0b53ab8")
+		)
+		(pin "6"
+			(uuid "0415622c-5867-45ad-8f29-d6d2ca1f460c")
+		)
+		(pin "4"
+			(uuid "c547ab81-ed7d-4957-a2f8-4aa50f4bac9e")
+		)
+		(pin "11"
+			(uuid "3d8367dd-abaf-402e-99c2-ee1a1cf4b239")
+		)
+		(pin "9"
+			(uuid "a02868e5-0334-4143-8828-a244ebe418bd")
+		)
+		(pin "10"
+			(uuid "61963e48-358b-49dd-9b2f-4b51d53f6317")
+		)
+		(pin "12"
+			(uuid "feed0e50-7f18-42d7-8655-c7f57f71e52c")
+		)
+		(pin "8"
+			(uuid "ba0ae9bb-5ebe-4c76-9bee-798d5e1bdb37")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Tub1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_IN-3tube_moroLib2.SchLib")
+		(at 433.12 426.234 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7b68c717-dcc1-403c-afa8-ed2b00d40fcb")
+		(property "Reference" "Tub9"
+			(at 428.04 421.154 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "IN-3"
+			(at 428.04 433.854 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "IN-3tube"
+			(at 433.12 426.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 433.12 426.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 433.12 426.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e4362df3-12b9-4ec1-9b22-4edbee4e27f2")
+		)
+		(pin "1"
+			(uuid "74844dfc-adc4-4ecc-a854-290cde853874")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Tub9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 386.48 262.774 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "80862ae9-27b2-44f5-bacf-c467fdfaeeac")
+		(property "Reference" "R12"
+			(at 387.242 262.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 387.242 265.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 386.48 262.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.48 262.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 386.48 262.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 387.242 267.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1"
+			(uuid "47a55b18-759a-478f-985c-feef87e2efaf")
+		)
+		(pin "2"
+			(uuid "cc6aceb6-a103-44dc-9de2-8c0bd8241f91")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_2_RES0805_moroLib2.SchLib")
+		(at 419.1 322.834 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "81d41a71-863e-4a3c-8526-79a41611b8ec")
+		(property "Reference" "R28"
+			(at 414.02 322.834 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 416.306 326.136 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 419.1 322.834 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 419.1 322.834 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 419.1 322.834 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "2k2"
+			(at 416.306 328.676 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "fbdb405b-aeee-4c42-b78c-f1172751296c")
+		)
+		(pin "1"
+			(uuid "bf05b89e-6c1f-46d7-b519-f1a78052da22")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 303.56 263.234 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "82d13f90-b003-41da-9a58-2ac747e8cc85")
+		(property "Reference" "R61"
+			(at 304.322 262.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 304.322 265.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 303.56 263.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 303.56 263.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 303.56 263.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "470"
+			(at 304.322 268.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "8e978435-d2c3-42a5-b1d6-f4453c1cd2bd")
+		)
+		(pin "1"
+			(uuid "6cfe06d8-313d-4744-8c48-3896721a5d47")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nixie_2025_v3-altium-import:+5VDC_BAR")
+		(at 346.859 255.154 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "89fcc030-f91f-49dc-b8bd-16197b21951f")
+		(property "Reference" "#PWR?"
+			(at 346.859 255.154 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5VDC"
+			(at 346.859 251.344 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 346.859 255.154 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 346.859 255.154 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 346.859 255.154 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "060c2a01-8d4f-4a65-868f-4aeb181984fa")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_3_ASMT-YTD9-0AA02_moroLib2.SchLib")
+		(at 391.4 272.394 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8a1d6cfc-07be-4acd-9414-2a72b2f2ec5f")
+		(property "Reference" "Led3"
+			(at 399.02 273.156 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "ASMT-YTD9-0AA02"
+			(at 399.02 275.696 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "ASMT-YTD9-0AA02"
+			(at 391.4 272.394 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 391.4 272.394 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 391.4 272.394 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "ASMT-YTD9-0AA02"
+			(at 383.78 280.522 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "6"
+			(uuid "aa5d74a2-cb8f-40e2-ba33-707913641af2")
+		)
+		(pin "5"
+			(uuid "b95bc90d-c78f-4c23-8dd4-8c5a8502efa6")
+		)
+		(pin "1"
+			(uuid "ee5b63f5-f852-46b1-b2cc-82d719136d94")
+		)
+		(pin "3"
+			(uuid "60412bd3-cd49-49ac-b671-dceaab973360")
+		)
+		(pin "2"
+			(uuid "60c8d6d5-1c21-4fae-b1aa-435a8ab5c3a1")
+		)
+		(pin "4"
+			(uuid "d73d98ed-f549-46be-8a5a-b361cba46e87")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Led3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_IN-3tube_moroLib2.SchLib")
+		(at 432.72 395.234 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8a33202b-38cc-49ea-8d4d-82f9f9a8bc5b")
+		(property "Reference" "Tub7"
+			(at 427.64 390.154 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "IN-3"
+			(at 437.42 392.234 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "IN-3tube"
+			(at 432.72 395.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 432.72 395.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 432.72 395.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "528f3806-cfed-49f2-a39a-971d68d65279")
+		)
+		(pin "2"
+			(uuid "ec13e75c-7434-4aef-b73a-a233a4521b63")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Tub7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_RES0805_moroLib2.SchLib")
+		(at 414.34 395.234 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9201a2fd-4430-4004-a8a0-fd2a9d25ccf2")
+		(property "Reference" "R63"
+			(at 411.546 394.472 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 411.546 398.536 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 414.34 395.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 414.34 395.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 414.34 395.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "150k"
+			(at 411.546 401.076 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "13a225da-daa7-40fd-91ef-538bfbee57a7")
+		)
+		(pin "1"
+			(uuid "e3a3680a-23c8-4792-936e-d9516980c534")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 526.099 261.114 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "935b0dff-56be-498f-bfdd-f50085910400")
+		(property "Reference" "R40"
+			(at 526.861 260.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 526.861 263.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 526.099 261.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 526.099 261.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 526.099 261.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 526.861 265.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1"
+			(uuid "76e7e35a-807d-4241-bb36-a9fa3c5eb748")
+		)
+		(pin "2"
+			(uuid "b3cfa50b-91c2-415c-aa97-75dbf5ea283e")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_RES0805_moroLib2.SchLib")
+		(at 414.94 408.234 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a2b86647-0265-496b-b063-e857c2c01c70")
+		(property "Reference" "R68"
+			(at 412.146 407.472 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 412.146 411.536 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 414.94 408.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 414.94 408.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 414.94 408.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "150k"
+			(at 412.146 414.076 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "8704c68f-75a3-4a62-8a54-fc129cee303a")
+		)
+		(pin "1"
+			(uuid "4073a06e-0212-4684-8b66-c86d17517823")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0805_moroLib2.SchLib")
+		(at 343.02 312.254 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b573519c-3075-4810-b3e6-c44779ec1afd")
+		(property "Reference" "R22"
+			(at 343.782 312 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 343.782 314.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 343.02 312.254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 343.02 312.254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 343.02 312.254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "2k2"
+			(at 343.782 317.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "d15c9063-4ce0-461a-a11f-e8232200cd31")
+		)
+		(pin "1"
+			(uuid "55c1b870-4091-416a-a014-03bb6fb9f454")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 298.56 262.894 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b5b5af42-3f4d-4f13-a40f-297e5dc30707")
+		(property "Reference" "R46"
+			(at 299.322 262.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 299.322 265.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 298.56 262.894 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 298.56 262.894 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 298.56 262.894 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "470"
+			(at 299.322 267.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1"
+			(uuid "f2e46dbb-9c03-4ccd-b382-6d8ea75b1365")
+		)
+		(pin "2"
+			(uuid "100bcbd8-68b8-400f-a2ed-38a6402a6983")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_IN-3tube_moroLib2.SchLib")
+		(at 432.72 408.234 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c3281ee1-819c-4b73-8774-c74bdc4c5b9a")
+		(property "Reference" "Tub8"
+			(at 427.64 403.154 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "IN-3"
+			(at 427.64 415.854 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "IN-3tube"
+			(at 432.72 408.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 432.72 408.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 432.72 408.234 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "91a76fc8-e0c6-458b-a362-9a41a6e9e887")
+		)
+		(pin "2"
+			(uuid "a1da844e-e9ad-4ecf-8dc1-d3a5d6032d7b")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Tub8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_3_ASMT-YTD9-0AA02_moroLib2.SchLib")
+		(at 531.179 268.734 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c3b4bd58-dadf-4657-94f8-d5423b374c5f")
+		(property "Reference" "Led6"
+			(at 538.799 269.496 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "ASMT-YTD9-0AA02"
+			(at 538.799 272.036 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "ASMT-YTD9-0AA02"
+			(at 531.179 268.734 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 531.179 268.734 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 531.179 268.734 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "ASMT-YTD9-0AA02"
+			(at 523.559 276.862 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "5150485a-3916-4f34-9250-deea296d71d8")
+		)
+		(pin "6"
+			(uuid "c4995f91-9ef9-47ec-8f49-e3ab25640e90")
+		)
+		(pin "1"
+			(uuid "338f940f-0c06-418c-ac5b-32b3af64c906")
+		)
+		(pin "5"
+			(uuid "843839e6-d3e4-4eca-87c8-694cc1453595")
+		)
+		(pin "4"
+			(uuid "4730e9d9-1f73-4c10-bcc9-f3937127068b")
+		)
+		(pin "3"
+			(uuid "7f6b9413-3a82-4047-8928-4a9b6fd443f3")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Led6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0805_moroLib2.SchLib")
+		(at 291.24 309.714 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c526979f-4e80-41ce-ba6f-64ead2d7b769")
+		(property "Reference" "R21"
+			(at 292.002 309.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0805"
+			(at 292.002 312 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0805new"
+			(at 291.24 309.714 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 291.24 309.714 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 291.24 309.714 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALTIUM_UNNAMED_1" "2k2"
+			(at 292.002 314.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1"
+			(uuid "f232bfb5-24db-47dd-b855-3dc78d36a0db")
+		)
+		(pin "2"
+			(uuid "51df6e63-d487-4bbb-bfd2-254ac2dd70ca")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_3_ASMT-YTD9-0AA02_moroLib2.SchLib")
+		(at 298.48 272.854 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ca9bc5d1-0613-4ca4-a2e7-5cf51dac10f9")
+		(property "Reference" "Led1"
+			(at 306.1 273.616 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "ASMT-YTD9-0AA02"
+			(at 266.7 274.574 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "ASMT-YTD9-0AA02"
+			(at 298.48 272.854 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 298.48 272.854 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 298.48 272.854 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "ASMT-YTD9-0AA02"
+			(at 266.7 280.982 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "3a3649d7-397a-4eba-8dbd-e631e69aec29")
+		)
+		(pin "5"
+			(uuid "0450059c-4750-45da-9559-da07d51c282d")
+		)
+		(pin "6"
+			(uuid "863012b1-18cb-482c-b156-48768f56553a")
+		)
+		(pin "4"
+			(uuid "29cc174e-58fc-45e3-ab7f-f2c9927565a6")
+		)
+		(pin "1"
+			(uuid "7b7712e3-20f5-487e-8759-ed93f2ab2d1e")
+		)
+		(pin "3"
+			(uuid "a485b24c-b703-46c0-b2f5-d846bd817687")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Led1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_3_ASMT-YTD9-0AA02_moroLib2.SchLib")
+		(at 433.78 273.394 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cc8e1b66-ae89-449a-a352-8ece68d8266e")
+		(property "Reference" "Led4"
+			(at 441.4 274.156 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "ASMT-YTD9-0AA02"
+			(at 441.4 276.696 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "ASMT-YTD9-0AA02"
+			(at 433.78 273.394 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 433.78 273.394 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 433.78 273.394 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "ASMT-YTD9-0AA02"
+			(at 426.16 281.522 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "a3c171fb-5970-4fa5-a2d9-fdc3846410a4")
+		)
+		(pin "5"
+			(uuid "9f9a8c47-ad96-408a-b77d-6881f9f220f7")
+		)
+		(pin "2"
+			(uuid "47073c46-d362-48c0-aad1-2c1554aed969")
+		)
+		(pin "6"
+			(uuid "62c8b0bf-21ac-4f86-a5ca-c4635650db34")
+		)
+		(pin "4"
+			(uuid "7ceebd41-2cca-40c4-8c58-aa63571a1011")
+		)
+		(pin "3"
+			(uuid "86dd17ed-e4f9-4e2f-add7-30c50aa04f81")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Led4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 391.48 262.434 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d660e78c-adf7-4ca2-bbba-88209e69e57d")
+		(property "Reference" "R11"
+			(at 392.242 262.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 392.242 264.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 391.48 262.434 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 391.48 262.434 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 391.48 262.434 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 392.242 267.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "e2f6fa30-47fc-48ca-8f19-7a0531e580a1")
+		)
+		(pin "1"
+			(uuid "d906e64f-6deb-46c0-abfa-2c57d01804ed")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 484.92 262.974 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d6d1e945-32bd-4c3d-838e-53694d92118a")
+		(property "Reference" "R16"
+			(at 485.682 262.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 485.682 265.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 484.92 262.974 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 484.92 262.974 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 484.92 262.974 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 485.682 267.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "17074e91-4277-4f05-b819-e26bd1031670")
+		)
+		(pin "1"
+			(uuid "a00dcff0-1dfe-4e37-aba8-c5b949032e4d")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 428.86 263.774 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "de62f4cf-0c9f-42b7-86b5-e06948cee9f5")
+		(property "Reference" "R38"
+			(at 429.622 263.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 429.622 266.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 428.86 263.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 428.86 263.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 428.86 263.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 429.622 268.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "a100d740-2e56-4e37-83d8-a89bcea8bd68")
+		)
+		(pin "1"
+			(uuid "0fb52045-8cfa-4dc7-9b12-76bb8938277c")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 433.86 263.434 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "de689ab6-21c3-4ae1-aabb-752248c15f78")
+		(property "Reference" "R36"
+			(at 434.622 263.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 434.622 265.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 433.86 263.434 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 433.86 263.434 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 433.86 263.434 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 434.622 268.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "94169873-b37f-4933-af70-a64f532610ce")
+		)
+		(pin "1"
+			(uuid "7a9da114-5406-4002-bbee-735b31920522")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nixie_2025_v3-altium-import:+5VDC_BAR")
+		(at 428.86 255.854 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "df92f8be-cbfb-4272-88bb-7198999fc94b")
+		(property "Reference" "#PWR?"
+			(at 428.86 255.854 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5VDC"
+			(at 428.86 252.044 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 428.86 255.854 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 428.86 255.854 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 428.86 255.854 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "1e315500-b138-4775-924f-629299e2d309")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_1_RES0603_moroLib2.SchLib")
+		(at 396.48 262.774 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f04cc9ae-bf57-4aba-8cc7-ddd3bee3977b")
+		(property "Reference" "R14"
+			(at 397.242 262.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "0603"
+			(at 397.242 265.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RES0603new"
+			(at 396.48 262.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 396.48 262.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 396.48 262.774 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "470"
+			(at 397.242 267.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "be68b376-45e2-4b21-910a-f0fb30a1b060")
+		)
+		(pin "1"
+			(uuid "fd1ad4a9-fe43-49e0-be1e-d5bcfd36e2ba")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_3_ASMT-YTD9-0AA02_moroLib2.SchLib")
+		(at 489.84 272.594 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fbc54a26-1665-4ea0-a146-1a464075fedf")
+		(property "Reference" "Led5"
+			(at 497.46 273.356 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "ASMT-YTD9-0AA02"
+			(at 497.46 275.896 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "ASMT-YTD9-0AA02"
+			(at 489.84 272.594 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 489.84 272.594 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 489.84 272.594 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VALUEPARAM" "ASMT-YTD9-0AA02"
+			(at 482.22 280.722 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "5"
+			(uuid "1659fa61-052c-49b6-92e0-f874df527087")
+		)
+		(pin "4"
+			(uuid "90fa3215-ee8d-43df-979e-1bf9d61e8e01")
+		)
+		(pin "2"
+			(uuid "bc799ce8-205b-4b0d-9dd7-c00c8327766b")
+		)
+		(pin "1"
+			(uuid "dda8211c-0c4a-4cf0-a45c-fb72c1c40951")
+		)
+		(pin "3"
+			(uuid "365108fd-37b6-4466-8eca-4f807120dc23")
+		)
+		(pin "6"
+			(uuid "27dc9c88-3d6c-49f2-97c8-2df4d5fab75b")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Led5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nixie_2025_v3-altium-import:dig_sec_BAR")
+		(at 495.3 411.734 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fc5c2f25-dd32-4bea-a759-67496ad155d5")
+		(property "Reference" "#PWR?"
+			(at 495.3 411.734 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "dig_sec"
+			(at 495.3 407.924 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 495.3 411.734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 495.3 411.734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 495.3 411.734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "63163aea-4143-4688-9dc2-8530b6bb9d62")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "moroLib2:root_0_MMBT5551_moroLib2.SchLib")
+		(at 480.06 439.674 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fcd9e8f6-8448-4046-a084-181d1866a5d8")
+		(property "Reference" "Q7"
+			(at 483.108 436.88 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "MMBT5551"
+			(at 483.108 439.42 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "SOT23"
+			(at 480.06 439.674 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 480.06 439.674 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 480.06 439.674 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c8877410-55b3-4070-93dc-15843bdf15c0")
+		)
+		(pin "3"
+			(uuid "f15eff10-8ec3-4c88-b74b-c4eb371e5cd4")
+		)
+		(pin "1"
+			(uuid "ae8c8f21-7d40-4a11-91ef-864cfcaf3f25")
+		)
+		(instances
+			(project "nixie_2025_v3"
+				(path "/07becdd6-41d0-409c-a2f7-6257f75a8855"
+					(reference "Q7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "4")
+		)
+	)
+)
